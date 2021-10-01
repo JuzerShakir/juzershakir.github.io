@@ -68923,7 +68923,7 @@ df:function(a){return this.c.$0()}}
 N.vF.prototype={
 F:function(a,b){var s,r,q=null,p=Y.cF(b,t.X),o=t.w,n=b.H(o).f.a.b
 o=b.H(o).f
-s=T.aJ(q,n*0.03,q)
+s=T.aJ(q,n*2,q)
 r=p.c?C.j:C.f
 return M.ap(q,T.kN(T.b_(H.b([s,new A.by("2021 \xa9 Juzer Shakir | Developed in \ud83d\udc99 with Flutter",B.aL(r,n*0.018,C.b3,q,q),q,q)],t.t),C.q,C.o,C.U),q,q),C.l,q,q,q,q,n*0.07,new V.ae(0,n*0.05,0,0),q,q,q,o.a.a)}}
 R.qq.prototype={
