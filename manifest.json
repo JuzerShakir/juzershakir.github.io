@@ -1,11 +1,11 @@
 {
-    "name": "Hamza",
-    "short_name": "Hamza",
+    "name": "Juzer Shakir",
+    "short_name": "Juzer",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#0175C2",
-    "description": "Live portfolio using flutter 2.0",
+    "description": "My portfolio using flutter -v 2.2.1",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
