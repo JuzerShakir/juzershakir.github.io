@@ -68662,7 +68662,7 @@ q=$.CJ[b]
 return new B.i1(R.aiR(s,o,p,$.ar_[b],r,null,$.akj[b],q),null)},
 $S:437}
 U.a0S.prototype={
-$0:function(){A.dv("https://github.com/mhmzdev")},
+$0:function(){A.dv("https://github.com/juzershakir")},
 $S:2}
 F.xg.prototype={
 F:function(a,b){var s,r=null,q=t.w,p=b.H(q).f.a.b
@@ -68679,7 +68679,7 @@ $C:"$3",
 $R:3,
 $S:82}
 F.a0U.prototype={
-$0:function(){A.dv("https://github.com/mhmzdev")},
+$0:function(){A.dv("https://github.com/juzershakir")},
 $S:2}
 V.nB.prototype={
 F:function(a,b){var s=this.d,r=this.c
