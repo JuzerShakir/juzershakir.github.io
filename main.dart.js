@@ -68242,18 +68242,18 @@ s=a5.c?C.f:C.j
 r=a7*0.03
 q=T.aK(a4,r,a4)
 p=U.ep("assets/mob.png",a7*0.27)
-o=T.aK(a4,r,a4)
-n=a7*0.025
-m=L.be("Who am I?",a4,a4,a4,B.aL(C.H,n,a4,a4,a4),a4,a4)
-l=T.aK(a4,a7*0.028,a4)
-k=a5.c?C.j:C.f
-k=L.be(u.v,a4,a4,a4,B.aL(k,a7*0.022,C.J,a4,a4),a4,a4)
-j=a7*0.02
-i=T.aK(a4,j,a4)
-h=L.be(u.b,a4,a4,a4,B.aL(C.y.h(0,500),a7*0.019,a4,1.1,a4),a4,a4)
-n=T.aK(a4,n,a4)
 r=T.aK(a4,r,a4)
-g=L.be("Technologies I have worked with:",a4,a4,a4,B.aL(C.H,j,a4,a4,a4),a4,a4)
+o=a7*0.025
+n=L.be("Who am I?",a4,a4,a4,B.aL(C.H,o,a4,a4,a4),a4,a4)
+m=T.aK(a4,a7*0.028,a4)
+l=a5.c?C.j:C.f
+l=L.be(u.v,a4,a4,a4,B.aL(l,a7*0.022,C.J,a4,a4),a4,a4)
+k=a7*0.02
+j=T.aK(a4,k,a4)
+i=L.be(u.b,a4,a4,a4,B.aL(C.y.h(0,500),a7*0.019,a4,1.1,a4),a4,a4)
+o=T.aK(a4,o,a4)
+h=T.aK(a4,a7*0.04,a4)
+g=L.be("Technologies I have worked with:",a4,a4,a4,B.aL(C.H,k,a4,a4,a4),a4,a4)
 f=t.t
 e=H.b([],f)
 for(d=0;d<4;++d)e.push(new T.o2($.agG[d],a4))
@@ -68264,12 +68264,12 @@ c=T.b_(c,C.q,C.o,C.w)
 b=a7*0.015
 a=T.aK(a4,b,a4)
 a0=M.ap(a4,a4,C.l,a4,a4,new S.bH(a4,a4,new F.bV(C.m,C.m,new Y.bp(C.y.h(0,900),1,C.F),C.m),a4,a4,a4,C.L),a4,a4,a4,a4,a4,a4,a4)
-j=T.aK(a4,j,a4)
+k=T.aK(a4,k,a4)
 b=T.aK(a4,b,a4)
 a1=T.b_(H.b([new T.bl(C.aE,new B.jK("Resume",new Q.SN(),a4),a4),M.ap(a4,a4,C.l,a4,a4,new S.bH(a4,a4,new F.bV(C.m,C.m,new Y.bp(C.y.h(0,900),2,C.F),C.m),a4,a4,a4,C.L),a4,a4,a4,a4,a4,a4,a8*0.2)],f),C.q,C.o,C.w)
 a2=H.b([],f)
 for(a3=this.c,d=0;d<3;++d)a2.push(new D.p6($.aki[d],$.akh[d],a3[d],a4))
-return M.ap(a4,T.bW(H.b([new O.fL("\nAbout Me",a4),new O.fM("Get to know me :)",a4),q,p,o,new T.cI(C.c_,a4,a4,m,a4),l,k,i,h,n,r,new T.cI(C.c_,a4,a4,g,a4),e,c,a,a0,j,new V.hj("Name","Juzer Shakir",C.c_,a4),new V.hj("Email","juzershakir.webdev@gmail.com",C.c_,a4),b,new T.cI(C.c_,a4,a4,a1,a4),T.b_(a2,C.q,C.o,C.w)],f),C.q,C.o,C.w),C.l,s,a4,a4,a4,a4,a4,new V.ae(a6,0,a6,0),a4,a4,a4)}}
+return M.ap(a4,T.bW(H.b([new O.fL("\nAbout Me",a4),new O.fM("Get to know me :)",a4),q,p,r,new T.cI(C.c_,a4,a4,n,a4),m,l,j,i,o,h,new T.cI(C.c_,a4,a4,g,a4),e,c,a,a0,k,new V.hj("Name","Juzer Shakir",C.c_,a4),new V.hj("Email","juzershakir.webdev@gmail.com",C.c_,a4),b,new T.cI(C.c_,a4,a4,a1,a4),T.b_(a2,C.q,C.o,C.w)],f),C.q,C.o,C.w),C.l,s,a4,a4,a4,a4,a4,new V.ae(a6,0,a6,0),a4,a4,a4)}}
 Q.SN.prototype={
 $0:function(){C.ad.qA(window,u.m,"pdf")},
 $S:2}
@@ -68280,31 +68280,31 @@ s=a4.c?C.f:C.j
 r=a6*0.03
 q=T.aK(a3,r,a3)
 p=U.ep("assets/mob.png",a6*0.3)
-o=T.aK(a3,r,a3)
-n=L.be("Who am I?",a3,a3,a3,B.aL(C.H,a6*0.028,a3,a3,a3),a3,a3)
-m=T.aK(a3,a6*0.032,a3)
-l=a4.c?C.j:C.f
-l=L.be(u.v,a3,a3,a3,B.aL(l,a6*0.035,C.J,a3,a3),a3,a3)
-k=a6*0.02
-j=T.aK(a3,k,a3)
-i=L.be(u.b,a3,a3,a3,B.aL(C.y.h(0,500),k,a3,2,a3),a3,a3)
-h=a6*0.025
-g=T.aK(a3,h,a3)
 r=T.aK(a3,r,a3)
+o=L.be("Who am I?",a3,a3,a3,B.aL(C.H,a6*0.028,a3,a3,a3),a3,a3)
+n=T.aK(a3,a6*0.032,a3)
+m=a4.c?C.j:C.f
+m=L.be(u.v,a3,a3,a3,B.aL(m,a6*0.035,C.J,a3,a3),a3,a3)
+l=a6*0.02
+k=T.aK(a3,l,a3)
+j=L.be(u.b,a3,a3,a3,B.aL(C.y.h(0,500),l,a3,2,a3),a3,a3)
+i=a6*0.025
+h=T.aK(a3,i,a3)
+g=T.aK(a3,a6*0.04,a3)
 f=L.be("Technologies I have worked with:",a3,a3,a3,B.aL(C.H,a6*0.021,a3,a3,a3),a3,a3)
 e=t.t
 d=H.b([],e)
 for(c=0;c<8;++c)d.push(new T.o2($.agG[c],a3))
 d=T.b_(d,C.q,C.o,C.w)
-b=T.aK(a3,k,a3)
+b=T.aK(a3,l,a3)
 a=M.ap(a3,a3,C.l,a3,a3,new S.bH(a3,a3,new F.bV(C.m,C.m,new Y.bp(C.y.h(0,900),2,C.F),C.m),a3,a3,a3,C.L),a3,a3,a3,a3,a3,a3,a3)
-h=T.aK(a3,h,a3)
+i=T.aK(a3,i,a3)
 a0=T.bW(H.b([new V.hj("Name","Juzer Shakir",a3,a3),new V.hj("Age","25",a3,a3)],e),C.ac,C.o,C.w)
 a0=T.b_(H.b([a0,T.aK(a3,a3,a7>710?a7*0.2:a5),T.bW(H.b([new V.hj("Email","juzershakir.webdev@gmail.com",a3,a3),new V.hj("From","Mumbai, IN",a3,a3)],e),C.ac,C.o,C.w)],e),C.q,C.o,C.w)
-k=T.aK(a3,k,a3)
+l=T.aK(a3,l,a3)
 a1=H.b([new T.bl(C.aE,new B.jK("Resume",new F.SO(),a3),a3),M.ap(a3,a3,C.l,a3,a3,new S.bH(a3,a3,new F.bV(C.m,C.m,new Y.bp(C.y.h(0,900),2,C.F),C.m),a3,a3,a3,C.L),a3,a3,a3,a3,a3,a3,a5)],e)
 for(a2=this.c,c=0;c<3;++c)a1.push(new D.p6($.aki[c],$.akh[c],a2[c],a3))
-return M.ap(a3,T.bW(H.b([new O.fL("\nAbout Me",a3),new O.fM("Get to know me :)",a3),q,p,o,new T.cI(C.c_,a3,a3,n,a3),m,l,j,i,g,r,new T.cI(C.c_,a3,a3,f,a3),d,b,a,h,a0,k,T.b_(a1,C.q,C.o,C.w)],e),C.q,C.o,C.w),C.l,s,a3,a3,a3,a3,a3,new V.ae(a5,0,a5,0),a3,a3,a3)}}
+return M.ap(a3,T.bW(H.b([new O.fL("\nAbout Me",a3),new O.fM("Get to know me :)",a3),q,p,r,new T.cI(C.c_,a3,a3,o,a3),n,m,k,j,h,g,new T.cI(C.c_,a3,a3,f,a3),d,b,a,i,a0,l,T.b_(a1,C.q,C.o,C.w)],e),C.q,C.o,C.w),C.l,s,a3,a3,a3,a3,a3,new V.ae(a5,0,a5,0),a3,a3,a3)}}
 F.SO.prototype={
 $0:function(){C.ad.qA(window,u.m,"pdf")},
 $S:2}
@@ -68471,7 +68471,7 @@ b=T.b_(H.b([h,U.a7f(!0,g,H.b([" UI/UX Enthusiast"," Ruby on Rails Developer"," T
 m=T.aK(d,m,d)
 f=J.Gq(4,t.ib)
 for(q=a*0.035,h=a0*0.005,e=0;e<4;++e)f[e]=new B.i1(new L.nS(C.eS[e],C.eO[e],q,h,d),d)
-return M.ap(d,T.eV(C.aJ,H.b([s,M.ap(d,T.bW(H.b([n,o,new A.by("Juzer",p,d,d),new A.by("Shakir",k,d,d),new B.fS(b,j,i,new P.k(-10,0),d),m,T.b_(f,C.q,C.o,C.U)],l),C.ac,C.o,C.w),C.l,d,d,d,d,d,new V.ae(r,a*0.2,r,0),d,d,d,d)],l),C.aA,d,d),C.l,d,d,d,d,a-50,d,d,d,d,a0)}}
+return M.ap(d,T.eV(C.aJ,H.b([s,M.ap(d,T.bW(H.b([n,o,new A.by("Shakir",p,d,d),new A.by("Juzer",k,d,d),new B.fS(b,j,i,new P.k(-10,0),d),m,T.b_(f,C.q,C.o,C.U)],l),C.ac,C.o,C.w),C.l,d,d,d,d,d,new V.ae(r,a*0.2,r,0),d,d,d,d)],l),C.aA,d,d),C.l,d,d,d,d,a-50,d,d,d,d,a0)}}
 G.vR.prototype={
 ai:function(){return new G.Ne(C.n)}}
 G.Ne.prototype={
@@ -68636,7 +68636,7 @@ G.ng.prototype={
 F:function(a,b){var s,r=null,q=Y.cF(b,t.X),p=t.w,o=b.H(p).f.a.a<1100?0:20,n=this.c,m=n==null,l=m?20:n
 l=L.be("< ",r,r,r,A.dF(r,r,q.c?C.j:C.f,r,r,r,r,r,r,r,r,l,r,r,r,r,!0,r,r,r,r,r,r,r),r,r)
 s=m?20:n
-s=L.be("Hamza",r,r,r,A.dF(r,r,q.c?C.j:C.f,r,r,r,r,r,"Agustina",r,r,s,r,r,r,r,!0,r,r,r,r,r,r,r),r,r)
+s=L.be("Juzer",r,r,r,A.dF(r,r,q.c?C.j:C.f,r,r,r,r,r,"Agustina",r,r,s,r,r,r,r,!0,r,r,r,r,r,r,r),r,r)
 p=b.H(p).f.a.a>=1000?" />\t\t":" />"
 if(m)n=20
 return new T.bl(new V.ae(o,20,0,0),T.b_(H.b([l,s,L.be(p,r,r,r,A.dF(r,r,q.c?C.j:C.f,r,r,r,r,r,r,r,r,n,r,r,r,r,!0,r,r,r,r,r,r,r),r,r)],t.t),C.q,C.o,C.U),r)}}
