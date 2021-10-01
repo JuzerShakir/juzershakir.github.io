@@ -68153,7 +68153,7 @@ return P.a5($async$ra,r)},
 aJ:function(){this.ra()
 this.ba()},
 F:function(a,b){var s=null,r=H.b([new T.uG(new Y.rQ(new F.ac2(),s,s,s,F.aEg(),T.aDw(),t.j9),s,s,s,s,t.je)],t.JD),q=this.d.c?X.aj6(C.j,C.a8,C.f,C.j,C.H,s,C.H,C.hX):X.aj6(C.H,C.a1,C.f,C.H,C.H,C.H,s,C.hX)
-return Y.ayc(new S.wr(P.aE(["/",new F.ac3(),"/workTogether",new F.ac4(),"/details",new F.ac5()],t.bD,t.sy),"/","Hamza",q,!1,s),r)}}
+return Y.ayc(new S.wr(P.aE(["/",new F.ac3(),"/workTogether",new F.ac4(),"/details",new F.ac5()],t.bD,t.sy),"/","Juzers' Portfolio",q,!1,s),r)}}
 F.ac2.prototype={
 $1:function(a){return O.aj7()},
 $S:427}
