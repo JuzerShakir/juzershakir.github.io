@@ -68217,7 +68217,7 @@ g=B.aK(C.x.h(0,500),i,a7,2,a7)
 f=T.aM(a7,m,a7)
 e=M.an(a7,a7,C.l,a7,a7,new S.bA(a7,a7,new F.bL(C.m,C.m,new Y.bh(C.x.h(0,800),2,C.C),C.m),a7,a7,a7,C.H),a7,a7,a7,a7,a7,a7,a7)
 d=T.aM(a7,i,a7)
-c=B.aK(C.I,b0*0.018,a7,a7,a7)
+c=B.aK(C.I,b0*0.021,a7,a7,a7)
 b=t.t
 a=H.b([],b)
 for(a0=0;a0<8;++a0)a.push(new T.o2($.agG[a0],a7))
@@ -68253,7 +68253,7 @@ p=T.aM(a4,p,a4)
 i=M.an(a4,a4,C.l,a4,a4,new S.bA(a4,a4,new F.bL(C.m,C.m,new Y.bh(C.x.h(0,900),1,C.C),C.m),a4,a4,a4,C.H),a4,a4,a4,a4,a4,a4,a4)
 h=a7*0.015
 g=T.aM(a4,h,a4)
-f=L.be("Technologies I have worked with:",a4,a4,a4,B.aK(C.I,h,a4,a4,a4),a4,a4)
+f=L.be("Technologies I have worked with:",a4,a4,a4,B.aK(C.I,l,a4,a4,a4),a4,a4)
 e=t.t
 d=H.b([],e)
 for(c=0;c<4;++c)d.push(new T.o2($.agG[c],a4))
@@ -68289,7 +68289,7 @@ j=a6*0.025
 i=T.aM(a3,j,a3)
 h=M.an(a3,a3,C.l,a3,a3,new S.bA(a3,a3,new F.bL(C.m,C.m,new Y.bh(C.x.h(0,900),2,C.C),C.m),a3,a3,a3,C.H),a3,a3,a3,a3,a3,a3,a3)
 g=T.aM(a3,m,a3)
-f=L.be("Technologies I have worked with:",a3,a3,a3,B.aK(C.I,a6*0.018,a3,a3,a3),a3,a3)
+f=L.be("Technologies I have worked with:",a3,a3,a3,B.aK(C.I,a6*0.021,a3,a3,a3),a3,a3)
 e=t.t
 d=H.b([],e)
 for(c=0;c<8;++c)d.push(new T.o2($.agG[c],a3))
@@ -68304,7 +68304,7 @@ a1=H.b([new T.bm(C.aE,new B.jK("Resume",new F.SO(),a3),a3),M.an(a3,a3,C.l,a3,a3,
 for(a2=this.c,c=0;c<3;++c)a1.push(new D.p6($.aki[c],$.akh[c],a2[c],a3))
 return M.an(a3,T.bW(H.b([new O.fL("\nAbout Me",a3),new O.fM("Get to know me :)",a3),r,q,new T.cI(C.c_,a3,a3,p,a3),o,n,l,k,i,h,g,new T.cI(C.c_,a3,a3,f,a3),d,b,a,j,a0,m,T.b_(a1,C.q,C.o,C.w)],e),C.q,C.o,C.w),C.l,s,a3,a3,a3,a3,a3,new V.ae(a5,0,a5,0),a3,a3,a3)}}
 F.SO.prototype={
-$0:function(){C.ad.qA(window,"https://drive.google.com/uc?export=view&id=1OOdcdGEN3thVvpZ4cl_MM0LT-GCMuLIE","pdf")},
+$0:function(){C.ad.qA(window,u.m,"pdf")},
 $S:2}
 Z.EI.prototype={
 F:function(a,b){return K.qG(new D.EJ(null),new M.uQ(null),new M.uQ(null))}}
