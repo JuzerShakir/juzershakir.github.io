@@ -68924,7 +68924,7 @@ N.vF.prototype={
 F:function(a,b){var s,r=null,q=Y.cF(b,t.X),p=t.w,o=b.H(p).f.a.b
 p=b.H(p).f
 s=q.c?C.f:C.y.h(0,900)
-return M.ap(r,T.kN(T.b_(H.b([new A.by("2021 \xa9 Juzer Shakir | Developed in \ud83d\udc99 with Flutter",B.aL(q.c?C.j:C.f,r,C.b3,r,r),r,r)],t.t),C.q,C.o,C.U),r,r),C.l,s,r,r,r,o*0.07,new V.ae(0,o*0.05,0,0),r,r,r,p.a.a)}}
+return M.ap(r,T.kN(T.b_(H.b([new A.by("2021 \xa9 Juzer Shakir | Developed in \ud83d\udc99 with Flutter",B.aL(q.c?C.j:C.f,r,C.b3,r,r),r,r)],t.t),C.q,C.o,C.U),r,r),C.l,s,r,r,r,o*0.03,new V.ae(0,o*0.05,0,0),r,r,r,p.a.a)}}
 R.qq.prototype={
 ai:function(){return new R.OV(C.n)}}
 R.OV.prototype={
