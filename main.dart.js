@@ -69085,7 +69085,7 @@ j=T.aJ(d,l,d)
 i=e.a.f
 h=c.c?C.i:C.f
 g=a0>=600?2:1.2
-g=B.az(h,a*0.015,C.aN,g,2)
+g=B.az(h,a*0.018,C.aN,g,2)
 l=T.aJ(d,l,d)
 e.a.toString
 h=M.at(d,d,C.l,d,d,d,d,d,d,d,d,d,d)
