@@ -20556,7 +20556,7 @@ aaG:function aaG(a){this.a=a},
 aaA:function aaA(a,b){this.a=a
 this.b=b},
 aaF:function aaF(){},
-aaH:function aaH(){},
+aaH:function aaH(a){this.a=a},
 uq:function uq(a,b){this.c=a
 this.a=b},
 Lo:function Lo(a){var _=this
@@ -68479,7 +68479,7 @@ h=m.c?4:0
 s=o.f
 r=o.z
 p=H.ai(r).i("ao<1,eM<o*>*>")
-return D.eR(n,M.J4(n,k,T.ex(C.aD,H.b([new T.bf(C.ku,T.bJ(H.b([j,C.iv,g,C.CG,i,C.mJ,T.aV(H.b([T.dT(T.bJ(H.b([new A.bt("Database",l,n,n),C.mK,M.fi(C.V,n,new T.bf(C.er,new K.iq(K.vg(C.i,!0,P.aE(new H.ao(r,new Q.aaF(),p),!0,p.i("b9.E")),new Q.aaG(o),s,q),n),n),C.l,C.f,h,n,n,n,n,C.aH)],f),C.a9,C.o,C.T),1)],f),C.p,C.o,C.w),C.mJ,T.aK(new B.hL("Send",new Q.aaH(),n),40,200)],f),C.a9,C.o,C.w),n)],f),C.av,n,n),n,!1),C.a3,!1,n,n,n,n,n,n,n,n,n,n,n,n,new Q.aaI(b),n,n,n,n,n,n)}}
+return D.eR(n,M.J4(n,k,T.ex(C.aD,H.b([new T.bf(C.ku,T.bJ(H.b([j,C.iv,g,C.CG,i,C.mJ,T.aV(H.b([T.dT(T.bJ(H.b([new A.bt("Database",l,n,n),C.mK,M.fi(C.V,n,new T.bf(C.er,new K.iq(K.vg(C.i,!0,P.aE(new H.ao(r,new Q.aaF(),p),!0,p.i("b9.E")),new Q.aaG(o),s,q),n),n),C.l,C.f,h,n,n,n,n,C.aH)],f),C.a9,C.o,C.T),1)],f),C.p,C.o,C.w),C.mJ,T.aK(new B.hL("Send",new Q.aaH(o),n),40,200)],f),C.a9,C.o,C.w),n)],f),C.av,n,n),n,!1),C.a3,!1,n,n,n,n,n,n,n,n,n,n,n,n,new Q.aaI(b),n,n,n,n,n,n)}}
 Q.aaI.prototype={
 $0:function(){return L.FY(this.a).wa()},
 $S:0}
@@ -68510,7 +68510,8 @@ $1:function(a){var s=null
 return K.vh(L.bd(a,s,s,s,B.aF(C.i,14,s,s,s),s,s),a,t.bD)},
 $S:37}
 Q.aaH.prototype={
-$0:function(){A.dv("mailto:juzershakir.webdev@gmail.com?subject=SOMESUBJECT&body=SOMEMSG")},
+$0:function(){var s=this.a
+A.dv("mailto:juzershakir.webdev@gmail.com?subject="+H.c(s.e)+"&body=For Database use "+H.c(s.f)+" which needs to be completed Less than 1 week at the budget of $200")},
 $S:2}
 Y.vV.prototype={
 ah:function(){return new Y.Nl(C.n)}}
