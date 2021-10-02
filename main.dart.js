@@ -68376,19 +68376,19 @@ e=l.e
 s=l.y
 r=H.ai(s).i("ao<1,eM<o*>*>")
 q=t.bD
-f=T.dU(T.bJ(H.b([new A.bp("Project Type",i,k,k),C.cS,M.fi(C.V,k,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(s,new K.aaq(),r),!0,r.i("b9.E")),new K.aar(l),e,q),k),k),C.l,C.f,f,k,k,k,k,C.aH)],c),C.a9,C.o,C.S),1)
+f=T.dU(T.bJ(H.b([new A.bp("Project Type",i,k,k),C.bZ,M.fi(C.V,k,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(s,new K.aaq(),r),!0,r.i("b9.E")),new K.aar(l),e,q),k),k),C.l,C.f,f,k,k,k,k,C.aH)],c),C.a9,C.o,C.S),1)
 i=B.aF(j.c?C.i:C.f,14,k,k,k)
 e=j.c?4:0
 s=l.f
 r=l.z
 p=H.ai(r).i("ao<1,eM<o*>*>")
-e=T.dU(T.bJ(H.b([new A.bp("Database/backend",i,k,k),C.cS,M.fi(C.V,k,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(r,new K.aas(),p),!0,p.i("b9.E")),new K.aat(l),s,q),k),k),C.l,C.f,e,k,k,k,k,C.aH)],c),C.a9,C.o,C.S),1)
+e=T.dU(T.bJ(H.b([new A.bp("Database/backend",i,k,k),C.bZ,M.fi(C.V,k,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(r,new K.aas(),p),!0,p.i("b9.E")),new K.aat(l),s,q),k),k),C.l,C.f,e,k,k,k,k,C.aH)],c),C.a9,C.o,C.S),1)
 i=B.aF(j.c?C.i:C.f,14,k,k,k)
 s=j.c?4:0
 r=l.r
 p=l.Q
 o=H.ai(p).i("ao<1,eM<o*>*>")
-s=T.aT(H.b([f,C.ff,e,C.ff,T.dU(T.bJ(H.b([new A.bp("Estimated Budget",i,k,k),C.cS,M.fi(C.V,k,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(p,new K.aau(),o),!0,o.i("b9.E")),new K.aav(l),r,q),k),k),C.l,C.f,s,k,k,k,k,C.aH)],c),C.a9,C.o,C.S),1)],c),C.p,C.o,C.w)
+s=T.aT(H.b([f,C.ff,e,C.ff,T.dU(T.bJ(H.b([new A.bp("Estimated Budget",i,k,k),C.bZ,M.fi(C.V,k,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(p,new K.aau(),o),!0,o.i("b9.E")),new K.aav(l),r,q),k),k),C.l,C.f,s,k,k,k,k,C.aH)],c),C.a9,C.o,C.S),1)],c),C.p,C.o,C.w)
 if(l.e==="Flutter - Mobile Development"){i=L.cS(C.rD,C.G,20)
 i=T.aT(H.b([i,C.bN,new A.bp("I don't have MacBook so I can only develop apps for Android.",A.dO(k,k,j.c?C.i:C.f,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k),k,k)],c),C.p,C.o,C.S)}else i=M.as(k,k,C.l,k,k,k,k,k,k,k,k,k,k)
 f=B.aF(j.c?C.i:C.f,14,k,k,k)
@@ -68396,12 +68396,12 @@ e=j.c?4:0
 r=l.x
 p=l.ch
 o=H.ai(p).i("ao<1,eM<o*>*>")
-e=T.aT(H.b([T.dU(T.bJ(H.b([new A.bp("Project Duration",f,k,k),C.bZ,M.fi(C.V,k,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(p,new K.aaw(),o),!0,o.i("b9.E")),new K.aax(l),r,q),k),k),C.l,C.f,e,k,k,k,k,C.aH)],c),C.a9,C.o,C.S),1),C.ff,T.dU(M.as(k,k,C.l,k,k,k,k,k,k,k,k,k,k),1),C.ff,T.dU(M.as(k,k,C.l,k,k,k,k,k,k,k,k,k,k),1)],c),C.p,C.o,C.w)
+e=T.aT(H.b([T.dU(T.bJ(H.b([new A.bp("Project Duration",f,k,k),C.cS,M.fi(C.V,k,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(p,new K.aaw(),o),!0,o.i("b9.E")),new K.aax(l),r,q),k),k),C.l,C.f,e,k,k,k,k,C.aH)],c),C.a9,C.o,C.S),1),C.ff,T.dU(M.as(k,k,C.l,k,k,k,k,k,k,k,k,k,k),1),C.ff,T.dU(M.as(k,k,C.l,k,k,k,k,k,k,k,k,k,k),1)],c),C.p,C.o,C.w)
 f=B.aF(j.c?C.i:C.f,14,k,k,k)
 r=A.dO(k,k,C.i,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k)
 q=j.c?C.y.h(0,200):C.f
 q=L.ana(k,new F.hK(4,C.d5,C.jE),k,k,k,k,k,!0,k,k,k,k,k,q,!0,k,k,k,k,!0,k,k,k,k,k,k,k,k,k,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k)
-f=T.dU(T.bJ(H.b([new A.bp("Message:",f,k,k),C.bZ,new Z.yW(l.d,q,C.iP,C.dX,r,C.mL,C.mM,7,C.Ge,k)],c),C.a9,C.o,C.w),1)
+f=T.dU(T.bJ(H.b([new A.bp("Message:",f,k,k),C.cS,new Z.yW(l.d,q,C.iP,C.dX,r,C.mL,C.mM,7,C.Ge,k)],c),C.a9,C.o,C.w),1)
 r=T.aT(H.b([M.as(k,k,C.l,C.y.h(0,800),k,k,k,2,k,k,k,k,150),C.CE,T.aL(new B.iD("Send",new K.aay(),k),40,200)],c),C.p,C.o,C.S)
 n=J.Gt(4,t.ib)
 for(q=t.w,m=0;m<4;++m)n[m]=new B.i1(new L.nS(C.eT[m],C.eP[m],b.H(q).f.a.b*0.035,b.H(q).f.a.a*0.005,k),k)
@@ -68466,16 +68466,16 @@ return new Q.Ne(new D.rv(C.mZ,new P.b8(t.V)),H.b(["Backend Web Development","UI/
 Q.Ne.prototype={
 m:function(a){this.d.N$=null
 this.b6(0)},
-F:function(a,b){var s,r,q,p,o=this,n=null,m=Y.cy(b,t.X),l=m.c,k=l?C.f:C.i,j=D.eR(n,L.cS(C.ev,l?C.O:C.f,35),C.a3,!1,n,n,n,n,n,n,n,n,n,n,n,n,new Q.aaC(b),n,n,n,n,n,n),i=L.cS(C.cE,C.G,40),h=P.aH(0,50,0),g=B.aF(l?C.i:C.f,24,C.aN,n,n),f=t.t
+F:function(a,b){var s,r,q,p,o=this,n=null,m=Y.cy(b,t.X),l=m.c,k=l?C.f:C.i,j=D.eR(n,L.cS(C.ev,l?C.O:C.f,35),C.a3,!1,n,n,n,n,n,n,n,n,n,n,n,n,new Q.aaC(b),n,n,n,n,n,n),i=L.cS(C.cE,C.G,40),h=P.aH(0,50,0),g=B.aF(l?C.i:C.f,22,C.aN,n,n),f=t.t
 g=T.aT(H.b([i,U.KE(!0,h,H.b([" Let's work together!"," To build something great!"," Something, that matters!"],t.i),g)],f),C.p,C.o,C.w)
-l=B.aF(m.c?C.i:C.f,16,n,n,n)
+l=B.aF(m.c?C.i:C.f,17,n,n,n)
 i=m.c?4:0
 h=o.e
 s=o.y
 r=H.ai(s).i("ao<1,eM<o*>*>")
 q=t.bD
 i=T.aT(H.b([T.dU(T.bJ(H.b([new A.bp("Project Type",l,n,n),C.bZ,M.fi(C.V,n,new T.bf(C.cC,new K.ip(K.vg(C.i,!0,P.aE(new H.ao(s,new Q.aaD(),r),!0,r.i("b9.E")),new Q.aaE(o),h,q),n),n),C.l,C.f,i,n,n,n,n,C.aH)],f),C.a9,C.o,C.S),1)],f),C.p,C.o,C.w)
-l=B.aF(m.c?C.i:C.f,16,n,n,n)
+l=B.aF(m.c?C.i:C.f,17,n,n,n)
 h=m.c?4:0
 s=o.f
 r=o.z
@@ -68497,7 +68497,7 @@ $0:function(){this.a.e=this.b},
 $S:2}
 Q.aaD.prototype={
 $1:function(a){var s=null
-return K.vh(L.bd(a,s,s,s,B.aF(C.i,18,s,s,s),s,s),a,t.bD)},
+return K.vh(L.bd(a,s,s,s,B.aF(C.i,15,s,s,s),s,s),a,t.bD)},
 $S:37}
 Q.aaG.prototype={
 $1:function(a){var s=this.a
@@ -68508,7 +68508,7 @@ $0:function(){this.a.f=this.b},
 $S:2}
 Q.aaF.prototype={
 $1:function(a){var s=null
-return K.vh(L.bd(a,s,s,s,B.aF(C.i,18,s,s,s),s,s),a,t.bD)},
+return K.vh(L.bd(a,s,s,s,B.aF(C.i,15,s,s,s),s,s),a,t.bD)},
 $S:37}
 Y.vV.prototype={
 ah:function(){return new Y.Nl(C.n)}}
@@ -68768,7 +68768,7 @@ m=T.aT(H.b([m,C.bN,new A.bp("I don't have MacBook, that's why I only work with A
 p=m}else p=M.as(r,r,C.l,r,r,r,r,r,r,r,r,r,r)
 m=B.aF(q.c?C.i:C.f,20,r,3,1.2)
 s=T.dU(M.as(r,r,C.l,r,r,r,r,r,r,r,r,r,r),1)
-return M.as(r,T.bJ(H.b([o,C.fg,n,C.bZ,p,C.bZ,new A.bp(this.d,m,r,r),s,new T.cI(C.U,r,r,new A.bp("Get in Touch!",B.aF(q.c?C.i:C.f,r,r,r,r),r,r),r),C.cT,new T.cI(C.U,r,r,B.v_(new P.D(4281650018),T.aT(H.b([L.cS(C.hu,r,r),C.bN,L.bd("WhatsApp",r,r,r,r,r,r)],l),C.p,C.o,C.S),40,new E.a4t()),r),C.cT,new T.cI(C.U,r,r,B.v_(new P.D(4279478272),T.aT(H.b([U.YC(u.P,C.f,35),C.bN,L.bd("Upwork",r,r,r,r,r,r)],l),C.p,C.o,C.S),40,new E.a4u()),r),C.CF],l),C.a9,C.o,C.w),C.l,r,r,r,r,r,r,C.rb,r,r,r)}}
+return M.as(r,T.bJ(H.b([o,C.fg,n,C.cS,p,C.cS,new A.bp(this.d,m,r,r),s,new T.cI(C.U,r,r,new A.bp("Get in Touch!",B.aF(q.c?C.i:C.f,r,r,r,r),r,r),r),C.cT,new T.cI(C.U,r,r,B.v_(new P.D(4281650018),T.aT(H.b([L.cS(C.hu,r,r),C.bN,L.bd("WhatsApp",r,r,r,r,r,r)],l),C.p,C.o,C.S),40,new E.a4t()),r),C.cT,new T.cI(C.U,r,r,B.v_(new P.D(4279478272),T.aT(H.b([U.YC(u.P,C.f,35),C.bN,L.bd("Upwork",r,r,r,r,r,r)],l),C.p,C.o,C.S),40,new E.a4u()),r),C.CF],l),C.a9,C.o,C.w),C.l,r,r,r,r,r,r,C.rb,r,r,r)}}
 E.a4s.prototype={
 $0:function(){K.fp(this.a,!1).j2(0,null)
 return null},
@@ -68797,7 +68797,7 @@ p=i.b*0.55
 q=i.a
 r=X.amB(C.jI,new L.oP($.kB[l.e],k,k),k)
 m=H.ai($.kB).i("ao<1,je*>")
-return M.as(k,T.bJ(H.b([new A.bp(" My Previous Work",s,k,k),C.cT,o,C.bZ,R.jx(!1,!0,T.ex(C.aD,H.b([M.as(k,T.aL(T.amt(new T.Du(P.axN(5,5),M.as(k,k,C.l,k,k,new S.bH(P.ad(0,255,255,255),k,k,k,k,k,C.L),k,k,k,k,k,k,k),k)),p,q),C.l,k,k,new S.bH(k,r,k,k,k,k,C.L),k,p,k,k,k,k,q),T.anZ(new T.cI(C.U,k,k,O.DS(l.d,new E.ae_(),4,B.DR(l.f,C.kn,C.am,P.aH(0,0,3),!0,!0,k,new E.ae0(l))),k))],n),C.av,k,k),k,!0,k,k,k,k,C.c2,k,k,new E.ae1(l),k,new E.ae2(),k,k,k),C.cT,T.aT(P.aE(new H.ao($.kB,new E.ae3(l),m),!0,m.i("b9.E")),C.p,C.bq,C.w)],n),C.a9,C.bq,C.w),C.l,k,k,new S.bH(h,k,k,new K.cO(new P.bF(25,25),C.a5,new P.bF(25,25),C.a5),g,k,C.L),k,k,k,C.r7,k,k,k)}}
+return M.as(k,T.bJ(H.b([new A.bp(" My Previous Work",s,k,k),C.cT,o,C.cS,R.jx(!1,!0,T.ex(C.aD,H.b([M.as(k,T.aL(T.amt(new T.Du(P.axN(5,5),M.as(k,k,C.l,k,k,new S.bH(P.ad(0,255,255,255),k,k,k,k,k,C.L),k,k,k,k,k,k,k),k)),p,q),C.l,k,k,new S.bH(k,r,k,k,k,k,C.L),k,p,k,k,k,k,q),T.anZ(new T.cI(C.U,k,k,O.DS(l.d,new E.ae_(),4,B.DR(l.f,C.kn,C.am,P.aH(0,0,3),!0,!0,k,new E.ae0(l))),k))],n),C.av,k,k),k,!0,k,k,k,k,C.c2,k,k,new E.ae1(l),k,new E.ae2(),k,k,k),C.cT,T.aT(P.aE(new H.ao($.kB,new E.ae3(l),m),!0,m.i("b9.E")),C.p,C.bq,C.w)],n),C.a9,C.bq,C.w),C.l,k,k,new S.bH(h,k,k,new K.cO(new P.bF(25,25),C.a5,new P.bF(25,25),C.a5),g,k,C.L),k,k,k,C.r7,k,k,k)}}
 E.adY.prototype={
 $0:function(){return A.dI("https://play.google.com/store/apps/details?id=com.hmz.al_quran&pli=1")},
 $S:0}
@@ -68850,7 +68850,7 @@ o=t.t
 p=T.aT(H.b([q,new A.bp(p,B.aF(k.c?C.i:C.f,28,C.aO,l,1.2),l,l)],o),C.p,C.o,C.S)
 q=m.a.d
 n=B.aF(k.c?C.i:C.f,l,l,2,l)
-return M.J4(j,h,E.azD(new T.bf(C.r1,T.bJ(H.b([new A.bp("My Previous Work",g,l,l),C.cS,new A.bp(f,i,l,l),s,r,p,new A.bp(q,n,l,l),C.fg,new T.cI(C.U,l,l,new A.bp("Get in Touch!",B.aF(k.c?C.i:C.f,l,l,l,l),l,l),l),C.cT,new T.cI(C.U,l,l,B.v_(new P.D(4281650018),T.aT(H.b([L.cS(C.hu,l,l),C.bN,L.bd("WhatsApp",l,l,l,l,l,l)],o),C.p,C.o,C.S),40,new T.adT()),l),C.bZ,new T.cI(C.U,l,l,B.v_(new P.D(4279478272),T.aT(H.b([U.YC(u.P,C.f,35),C.bN,L.bd("Upwork",l,l,l,l,l,l)],o),C.p,C.o,C.S),40,new T.adU()),l)],o),C.a9,C.o,C.w),l)),l,!1)}}
+return M.J4(j,h,E.azD(new T.bf(C.r1,T.bJ(H.b([new A.bp("My Previous Work",g,l,l),C.bZ,new A.bp(f,i,l,l),s,r,p,new A.bp(q,n,l,l),C.fg,new T.cI(C.U,l,l,new A.bp("Get in Touch!",B.aF(k.c?C.i:C.f,l,l,l,l),l,l),l),C.cT,new T.cI(C.U,l,l,B.v_(new P.D(4281650018),T.aT(H.b([L.cS(C.hu,l,l),C.bN,L.bd("WhatsApp",l,l,l,l,l,l)],o),C.p,C.o,C.S),40,new T.adT()),l),C.cS,new T.cI(C.U,l,l,B.v_(new P.D(4279478272),T.aT(H.b([U.YC(u.P,C.f,35),C.bN,L.bd("Upwork",l,l,l,l,l,l)],o),C.p,C.o,C.S),40,new T.adU()),l)],o),C.a9,C.o,C.w),l)),l,!1)}}
 T.adQ.prototype={
 $3:function(a,b,c){return U.ep($.kB[b],100)},
 $C:"$3",
@@ -68900,7 +68900,7 @@ n=B.aF(o,r.d*0.015,C.J,n,2)
 o=P.ad(150,192,57,43)
 s=K.jg(5)
 o=B.n1(L.bd("Details",q,q,q,B.aF(p.c?C.i:C.f,q,C.aN,q,q),q,q),q,o,new S.a4q(r,b),new X.d6(s,new Y.bq(C.G,1,C.F)))
-return T.bJ(H.b([new A.bp(r.f,n,q,q),C.fg,o,C.cS,M.as(q,q,C.l,p.c?C.y.h(0,400):C.y.h(0,100),q,q,q,0.5,q,q,q,q,250),C.cS,T.aL(B.n1(L.bd("HIRE ME!",q,q,q,A.dO(q,q,C.f,q,q,q,q,q,q,q,q,16,q,C.aO,q,q,!0,q,q,q,q,q,q,q),q,q),C.G,q,new S.a4r(r,b),q),40,150)],t.t),C.p,C.bq,C.w)}}
+return T.bJ(H.b([new A.bp(r.f,n,q,q),C.fg,o,C.bZ,M.as(q,q,C.l,p.c?C.y.h(0,400):C.y.h(0,100),q,q,q,0.5,q,q,q,q,250),C.bZ,T.aL(B.n1(L.bd("HIRE ME!",q,q,q,A.dO(q,q,C.f,q,q,q,q,q,q,q,q,16,q,C.aO,q,q,!0,q,q,q,q,q,q,q),q,q),C.G,q,new S.a4r(r,b),q),40,150)],t.t),C.p,C.bq,C.w)}}
 S.a4q.prototype={
 $0:function(){var s=this.a,r=s.r
 if(r===$.CM[3])A.dI($.akv[3])
@@ -73872,8 +73872,8 @@ C.CD=new T.d8(30,null,null,null)
 C.ff=new T.d8(50,null,null,null)
 C.CE=new T.d8(5,null,null,null)
 C.bN=new T.d8(8,null,null,null)
-C.cS=new T.d8(null,10,null,null)
-C.bZ=new T.d8(null,15,null,null)
+C.bZ=new T.d8(null,10,null,null)
+C.cS=new T.d8(null,15,null,null)
 C.cT=new T.d8(null,20,null,null)
 C.mJ=new T.d8(null,22,null,null)
 C.fg=new T.d8(null,25,null,null)
