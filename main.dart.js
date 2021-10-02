@@ -68242,17 +68242,16 @@ r=a7*0.03
 q=T.aK(a4,r,a4)
 p=U.ep("assets/mob.png",a7*0.27)
 r=T.aK(a4,r,a4)
-o=a7*0.025
-n=L.be("Who am I?",a4,a4,a4,B.aL(C.H,o,a4,a4,a4),a4,a4)
-m=T.aK(a4,a7*0.028,a4)
-l=a5.c?C.j:C.f
-l=L.be(u.v,a4,a4,a4,B.aL(l,a7*0.022,C.J,a4,a4),a4,a4)
-k=a7*0.02
-j=T.aK(a4,k,a4)
-i=L.be(u.b,a4,a4,a4,B.aL(C.y.h(0,500),a7*0.0195,a4,1.2,a4),a4,a4)
-o=T.aK(a4,o,a4)
+o=L.be("Who am I?",a4,a4,a4,B.aL(C.H,a7*0.025,a4,a4,a4),a4,a4)
+n=T.aK(a4,a7*0.028,a4)
+m=a5.c?C.j:C.f
+m=L.be(u.v,a4,a4,a4,B.aL(m,a7*0.022,C.J,a4,a4),a4,a4)
+l=a7*0.02
+k=T.aK(a4,l,a4)
+j=L.be(u.b,a4,a4,a4,B.aL(C.y.h(0,500),a7*0.0193,a4,1.25,a4),a4,a4)
+i=T.aK(a4,l,a4)
 h=T.aK(a4,a7*0.04,a4)
-g=L.be("Technologies I have worked with:",a4,a4,a4,B.aL(C.H,k,a4,a4,a4),a4,a4)
+g=L.be("Technologies I have worked with:",a4,a4,a4,B.aL(C.H,l,a4,a4,a4),a4,a4)
 f=t.t
 e=H.b([],f)
 for(d=0;d<4;++d)e.push(new T.o2($.agF[d],a4))
@@ -68263,12 +68262,12 @@ c=T.b_(c,C.q,C.o,C.w)
 b=a7*0.015
 a=T.aK(a4,b,a4)
 a0=M.ap(a4,a4,C.l,a4,a4,new S.bH(a4,a4,new F.bV(C.m,C.m,new Y.bp(C.y.h(0,900),1,C.F),C.m),a4,a4,a4,C.L),a4,a4,a4,a4,a4,a4,a4)
-k=T.aK(a4,k,a4)
+l=T.aK(a4,l,a4)
 b=T.aK(a4,b,a4)
 a1=T.b_(H.b([new T.bl(C.aE,new B.jK("Resume",new Q.SN(),a4),a4),M.ap(a4,a4,C.l,a4,a4,new S.bH(a4,a4,new F.bV(C.m,C.m,new Y.bp(C.y.h(0,900),2,C.F),C.m),a4,a4,a4,C.L),a4,a4,a4,a4,a4,a4,a8*0.2)],f),C.q,C.o,C.w)
 a2=H.b([],f)
 for(a3=this.c,d=0;d<3;++d)a2.push(new D.p6($.akh[d],$.akg[d],a3[d],a4))
-return M.ap(a4,T.bW(H.b([new O.fL("\nAbout Me",a4),new O.fM("Get to know me :)",a4),q,p,r,new T.cI(C.c_,a4,a4,n,a4),m,l,j,i,o,h,new T.cI(C.c_,a4,a4,g,a4),e,c,a,a0,k,new V.hj("Name","Juzer Shakir",C.c_,a4),new V.hj("Email","juzershakir.webdev@gmail.com",C.c_,a4),b,new T.cI(C.c_,a4,a4,a1,a4),T.b_(a2,C.q,C.o,C.w)],f),C.q,C.o,C.w),C.l,s,a4,a4,a4,a4,a4,new V.ae(a6,0,a6,0),a4,a4,a4)}}
+return M.ap(a4,T.bW(H.b([new O.fL("\nAbout Me",a4),new O.fM("Get to know me :)",a4),q,p,r,new T.cI(C.c_,a4,a4,o,a4),n,m,k,j,i,h,new T.cI(C.c_,a4,a4,g,a4),e,c,a,a0,l,new V.hj("Name","Juzer Shakir",C.c_,a4),new V.hj("Email","juzershakir.webdev@gmail.com",C.c_,a4),b,new T.cI(C.c_,a4,a4,a1,a4),T.b_(a2,C.q,C.o,C.w)],f),C.q,C.o,C.w),C.l,s,a4,a4,a4,a4,a4,new V.ae(a6,0,a6,0),a4,a4,a4)}}
 Q.SN.prototype={
 $0:function(){C.ad.qA(window,u.m,"pdf")},
 $S:2}
