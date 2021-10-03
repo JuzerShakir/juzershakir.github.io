@@ -1,0 +1,195 @@
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  overflow:hidden;
+  background:radial-gradient(circle at center, #222, #000);
+  svg{
+    position:absolute;
+    width:0;
+    height:0;
+  }
+  .wrap{
+    width:400px;
+    height:900px;
+    position:relative;
+    animation:scrollup 6s linear infinite;
+    filter:url("#goo");
+    @keyframes scrollup{
+      from{
+        transform:scale(0.75) translateY(100px);
+      }
+      to{
+        transform:scale(0.75) translateY(-100px);
+      }
+    }
+    .angle{
+      position:absolute;
+      width:200px;
+      height:200px;
+      left:calc(50% - 50px);
+      filter:contrast(10px);
+      &:first-of-type{
+        animation:rolldown 6s ease-in-out infinite;
+        @keyframes rolldown{
+          0%{
+            transform:rotate(0deg);
+          }
+          10%{
+            transform:rotate(180deg);
+          }
+          100%{
+            transform:rotate(180deg);
+          }
+        }
+        &:before{
+          animation:rolldown2 6s ease-in-out infinite;
+          transform-origin:top right;
+          @keyframes rolldown2{
+          0%{
+            transform:rotate(0deg);
+          }
+          12.5%{
+            transform:rotate(0deg);
+          }
+          25%{
+            transform:rotate(180deg);
+          }
+          100%{
+            transform:rotate(180deg);
+          }
+        }
+        }
+      }
+      &:nth-of-type(2){
+        animation:rolldown3 6s ease-in-out infinite;
+        transform-origin:left;
+        @keyframes rolldown3{
+          0%{
+            transform:rotate(0deg);
+          }
+          25%{
+            transform:rotate(0deg);
+          }
+          37.5%{
+            transform:rotate(-180deg);
+          }
+          100%{
+            transform:rotate(-180deg);
+          }
+        }
+        &:before{
+          animation:rolldown4 6s ease-in-out infinite;
+          transform-origin:top left;
+          @keyframes rolldown4{
+          0%{
+            transform:rotate(0deg);
+          }
+          37.5%{
+            transform:rotate(0deg);
+          }
+          50%{
+            transform:rotate(-180deg);
+          }
+          100%{
+            transform:rotate(-180deg);
+          }
+        }
+        }
+      }
+      &:nth-of-type(3){
+        animation:rolldown5 6s ease-in-out infinite;
+        @keyframes rolldown5{
+          0%{
+            transform:rotate(0deg);
+          }
+          50%{
+            transform:rotate(0deg);
+          }
+          62.5%{
+            transform:rotate(180deg);
+          }
+          100%{
+            transform:rotate(180deg);
+          }
+        }
+        &:before{
+          animation:rolldown6 6s ease-in-out infinite;
+          transform-origin:top right;
+          @keyframes rolldown6{
+          0%{
+            transform:rotate(0deg);
+          }
+          62.5%{
+            transform:rotate(0deg);
+          }
+          75%{
+            transform:rotate(180deg);
+          }
+          100%{
+            transform:rotate(180deg);
+          }
+        }
+        }
+      }
+      &:nth-of-type(4){
+        animation:rolldown7 6s ease-in-out infinite;
+        transform-origin:left;
+        @keyframes rolldown7{
+          0%{
+            transform:rotate(0deg);
+          }
+          75%{
+            transform:rotate(0deg);
+          }
+          87.5%{
+            transform:rotate(-180deg);
+          }
+          100%{
+            transform:rotate(-180deg);
+          }
+        }
+        &:before{
+          animation:rolldown8 6s ease-in-out infinite;
+          transform-origin:top left;
+          @keyframes rolldown8{
+          0%{
+            transform:rotate(0deg);
+          }
+          87.5%{
+            transform:rotate(0deg);
+          }
+          100%{
+            transform:rotate(-180deg);
+          }
+        }
+        }
+      }
+      @for $i from 1 through 4{
+        &:nth-of-type(#{$i}){
+          top:calc((50% - 250px) + (#{$i - 1} * 50px));
+          &:before{
+            content:'';
+            position:absolute;
+            width:50%;
+            height:50%;
+            background: linear-gradient(to right, #b21f1f, #fdbb2d 150%);
+          }
+        }
+        &:nth-of-type(even){
+          &:before{
+            -webkit-clip-path: polygon(0 0, 0% 100%, 100% 50%);
+          clip-path: polygon(0 0, 0% 100%, 100% 50%);
+          }
+        }
+        &:nth-of-type(odd){
+          &:before{
+            -webkit-clip-path: polygon(100% 0, 100% 100%, 0 50%);
+          clip-path: polygon(100% 0, 100% 100%, 0 50%);
+          }
+        }
+      }
+    }
+  }
+}
