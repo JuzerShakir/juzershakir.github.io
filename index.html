@@ -91,21 +91,23 @@
 
 <body>
 
-  <div class="wrap">
-    <% 4.times do %>
-      <div class="angle"></div>
-    <% end %>
+  <div class='wrap'>
+    <div class='angle'></div>
+    <div class='angle'></div>
+    <div class='angle'></div>
+    <div class='angle'></div>
   </div>
-  <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <svg version='1.1' xmlns='http://www.w3.org/2000/svg'>
     <defs>
-      <filter id="goo">
-        <fegaussianblur in="SourceGraphic" result="blur" stddeviation="12"></fegaussianblur>
-        <fecolormatrix in="blur" mode="matrix" result="goo" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9"></fecolormatrix>
-        <fecomposite in="SourceGraphic" in2="goo" operator="atop"></fecomposite>
+      <filter id='goo'>
+        <fegaussianblur in='SourceGraphic' result='blur' stddeviation='12'></fegaussianblur>
+        <fecolormatrix in='blur' mode='matrix' result='goo' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9'></fecolormatrix>
+        <fecomposite in2='goo' in='SourceGraphic' operator='atop'></fecomposite>
       </filter>
     </defs>
   </svg>
 
+t
 
 
   <!-- This script installs service_worker.js to provide PWA functionality to
@@ -114,7 +116,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2411165253');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=2235129604');
       });
     }
   </script>
