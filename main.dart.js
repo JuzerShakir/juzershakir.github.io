@@ -68926,7 +68926,7 @@ s[o]=new T.be(C.ks,new B.i3(new O.nB($.akz[o],$.akA[o],$.aky[o],n,m,new S.qS(d,e
 m=T.aI(e,b*0.04,e)
 l=t.t
 k=H.b([],l)
-for(j=b*0.35,i=b*0.37,o=3;o<5;++o){h=r?p:q
+for(j=b*0.35,i=b*0.37,o=3;!1;++o){h=r?p:q
 g=r?i:j
 f=d.c&&o===4?"assets/services/open_b.png":$.akz[o]
 k.push(new T.be(C.ks,new B.i3(new O.nB(f,$.akA[o],$.aky[o],h,g,new S.qS(d,e),e),e),e))}return M.at(e,T.bA(H.b([new O.fO("\nWhat I Do",e),new O.fP(u.J,e),T.bA(H.b([n,m,T.aT(k,C.p,C.m,C.T)],l),C.p,C.m,C.v)],l),C.p,C.m,C.v),C.l,e,e,e,e,e,e,new V.ae(c,0,c,0),e,e,e)}}
@@ -68957,7 +68957,7 @@ F.yk.prototype={
 F:function(a,b){var s,r=null,q=Y.cx(b,t.X),p=t.w,o=b.H(p).f.a.b,n=b.H(p).f.a.a
 p=n<450?o*0.4:o*0.4
 s=P.aH(0,0,5)
-return M.at(r,T.bA(H.b([new O.fO("\nWhat I Do",r),new O.fP(u.J,r),O.DR(r,new F.a4s(n,q,o),5,B.DQ(!0,P.aH(0,800,0),C.am,s,!1,!0,p,r))],t.t),C.p,C.m,C.v),C.l,r,r,r,r,r,r,r,r,r,r)}}
+return M.at(r,T.bA(H.b([new O.fO("\nWhat I Do",r),new O.fP(u.J,r),O.DR(r,new F.a4s(n,q,o),3,B.DQ(!0,P.aH(0,800,0),C.am,s,!1,!0,p,r))],t.t),C.p,C.m,C.v),C.l,r,r,r,r,r,r,r,r,r,r)}}
 F.a4s.prototype={
 $3:function(a,b,c){var s,r,q=this.a
 q=q<650?q*0.8:q*0.5
@@ -69103,7 +69103,7 @@ p=g.e
 o=p?new Y.bt(C.I,3,C.G):new Y.bt(C.i,1,C.G)
 p=p?H.b([new O.aN(0,P.ad(100,192,57,43),new P.k(0,0),12)],n):H.b([new O.aN(0,P.ad(100,0,0,0),new P.k(0,0),12)],n)
 n=g.a
-l=U.eq(n.c,c*0.1)
+l=U.eq(n.c,c*0.09)
 k=T.aI(f,c*0.025,f)
 n=n.d
 j=e.c?C.i:C.f
@@ -69112,7 +69112,7 @@ n=T.aI(f,c*0.01,f)
 i=g.a.e
 h=e.c?C.i:C.f
 d=d.a.a<900?1.5:1.8
-return R.jw(!1,!0,new E.vy(M.at(f,T.bA(H.b([l,k,j,n,T.dg(L.ba(i,f,f,f,B.aB(h,c*0.013,C.aT,d,1.5),C.b8,f),1)],t.t),C.p,C.br,C.v),C.l,f,f,new S.bI(q,f,new F.bW(C.n,C.n,o,C.n),f,p,f,C.K),f,m,f,new V.ae(12,8,12,8),f,f,s),r,!1,g.d),f,!0,f,f,f,f,f,f,f,new O.adS(g),f,new O.adT(),f,f,f)}}
+return R.jw(!1,!0,new E.vy(M.at(f,T.bA(H.b([l,k,j,n,T.dg(L.ba(i,f,f,f,B.aB(h,c*0.014,C.aT,d,1.5),C.b8,f),1)],t.t),C.p,C.br,C.v),C.l,f,f,new S.bI(q,f,new F.bW(C.n,C.n,o,C.n),f,p,f,C.K),f,m,f,new V.ae(12,8,12,8),f,f,s),r,!1,g.d),f,!0,f,f,f,f,f,f,f,new O.adS(g),f,new O.adT(),f,f,f)}}
 O.adT.prototype={
 $0:function(){},
 $S:2}
@@ -74547,11 +74547,11 @@ $.aru=null
 $.akw=H.b(["assets/udacity_logo.png","assets/khan_academy.png"],t.i)
 $.akv=H.b(["https://drive.google.com/drive/folders/1_L1ParDN3nEFxd91yJihbbQRTS6s_6xo?usp=sharing","https://drive.google.com/file/d/0B8qVMkowFyBSclVzX2JhM2VuVzZzbG81ZVFpVTlEZWFScGxv/view?usp=sharing&resourcekey=0-kn1rqarX1NrmvbNoMoQ4-Q"],t.i)
 $.agU=H.b(["Ruby","Ruby on Rails","Python","Git","HTML","CSS","SCSS","Bootstrap"],t.i)
-$.akz=H.b(["assets/services/web.png","assets/services/ui.png","assets/services/rapid.png","assets/services/blog.png","assets/services/open.png"],t.i)
-$.akA=H.b(["Ruby on Rails Developer","UI/UX Designing","Rapid Prototyping","Technical Blog Writing","Open Source - GitHub"],t.i)
-$.aky=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Familiar with gems such as Omniauth, Devise, kaminari and many more...!","Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!","Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype","Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!","Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"],t.i)
+$.akz=H.b(["assets/services/web.png","assets/services/ui.png","assets/services/blog.png"],t.i)
+$.akA=H.b(["Ruby on Rails Developer","UI/UX Designing","Technical Blog Writing"],t.i)
+$.aky=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Familiar with gems such as Omniauth, Devise, kaminari and many more...!","Although I'm mainly a ROR developer but I do care about the UI/UX. Hence, I also do UI designing for applications. So, feel free to ask me for getting you UI/UX for your apps. \n- Adobe XD\n- Mobile & Web designs","- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"],t.i)
 $.aEs=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
-return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s,"https://mhamzadev.medium.com","https://github.com/mhmzdev"],t.i)}()
+return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.kA=H.b(["assets/projects/medkitB.png","assets/projects/quranB.png","assets/projects/hereiamB.png","assets/projects/covidB.png"],t.i)
 $.ard=H.b(["assets/projects/medkit.png","assets/projects/quran.png","assets/projects/hereiam.png","assets/projects/covid.png","assets/projects/messenger.png","assets/projects/flutter.png","assets/projects/earbender.png","assets/projects/java.png","assets/projects/android.png","assets/services/open.png"],t.i)
 $.CL=H.b(["MedKit","The Holy Qur'an","Here I Am","COVID-19","Messenger Chat Head UI","flutter.dev - Flutter Web","Earbender","File Transfer Protocol","My Order","Hidev"],t.i)
