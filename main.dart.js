@@ -68237,7 +68237,7 @@ F:function(b2,b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6
 a9=b1*0.02
 s=a8.c?C.f:C.i
 r=T.aJ(a7,30,a7)
-q=T.dz(U.eq("assets/web.png",b0*0.7),1)
+q=T.dz(U.eq("assets/about_profile.png",b0*0.7),1)
 p=b1<1230
 o=p?2:1
 n=p?25:0
@@ -68276,7 +68276,7 @@ a6=a8*0.05
 s=a5.c?C.f:C.i
 r=a7*0.03
 q=T.aJ(a4,r,a4)
-p=U.eq("assets/mob.png",a7*0.27)
+p=U.eq("assets/about_profile_mini.png",a7*0.27)
 r=T.aJ(a4,r,a4)
 o=L.ba("Who am I?",a4,a4,a4,B.az(C.H,a7*0.025,a4,a4,a4),a4,a4)
 n=T.aJ(a4,a7*0.028,a4)
@@ -74571,8 +74571,8 @@ $.ary=null
 $.akz=H.b(["assets/udacity_logo.png","assets/khan_academy.png"],t.i)
 $.aky=H.b(["https://drive.google.com/drive/folders/1_L1ParDN3nEFxd91yJihbbQRTS6s_6xo?usp=sharing","https://drive.google.com/file/d/0B8qVMkowFyBSclVzX2JhM2VuVzZzbG81ZVFpVTlEZWFScGxv/view?usp=sharing&resourcekey=0-kn1rqarX1NrmvbNoMoQ4-Q"],t.i)
 $.agX=H.b(["Ruby","Ruby on Rails","Python","Git","HTML","CSS","SCSS","Bootstrap"],t.i)
-$.akC=H.b(["assets/services/app.png","assets/services/ui.png","assets/services/rapid.png","assets/services/blog.png","assets/services/open.png"],t.i)
-$.CM=H.b(["Full App Development","UI/UX Designing","Rapid Prototyping","Technical Blog Writing","Open Source - GitHub"],t.i)
+$.akC=H.b(["assets/services/web.png","assets/services/ui.png","assets/services/rapid.png","assets/services/blog.png","assets/services/open.png"],t.i)
+$.CM=H.b(["Backend Web Development","UI/UX Designing","Rapid Prototyping","Technical Blog Writing","Open Source - GitHub"],t.i)
 $.akB=H.b(["Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!","Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!","Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype","Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!","Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"],t.i)
 $.akD=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s,"https://mhamzadev.medium.com","https://github.com/mhmzdev"],t.i)}()
