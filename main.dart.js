@@ -69134,8 +69134,8 @@ p=g.e
 o=p?new Y.bq(C.H,3,C.F):new Y.bq(C.i,1,C.F)
 p=p?H.b([new O.aN(0,P.ad(100,192,57,43),new P.k(0,0),12)],n):H.b([new O.aN(0,P.ad(100,0,0,0),new P.k(0,0),12)],n)
 n=g.a
-l=U.eq(n.c,c*0.14)
-k=T.aI(f,c*0.02,f)
+l=U.eq(n.c,c*0.115)
+k=T.aI(f,c*0.025,f)
 n=n.d
 j=e.c?C.i:C.f
 j=L.b9(n,f,f,f,B.aw(j,c*0.022,C.aq,f,2),C.b8,f)
@@ -69143,7 +69143,7 @@ n=T.aI(f,c*0.01,f)
 i=g.a.e
 h=e.c?C.i:C.f
 d=d.a.a<900?1.5:1.8
-return R.jx(!1,!0,new E.vy(M.at(f,T.bA(H.b([l,k,j,n,T.dh(L.b9(i,f,f,f,B.aw(h,c*0.015,C.aU,d,2),C.b8,f),1)],t.t),C.p,C.br,C.v),C.l,f,f,new S.bI(q,f,new F.bW(C.n,C.n,o,C.n),f,p,f,C.L),f,m,f,new V.ae(12,8,12,8),f,f,s),r,!1,g.d),f,!0,f,f,f,f,f,f,f,new O.adV(g),f,new O.adW(),f,f,f)}}
+return R.jx(!1,!0,new E.vy(M.at(f,T.bA(H.b([l,k,j,n,T.dh(L.b9(i,f,f,f,B.aw(h,c*0.015,C.aU,d,1.5),C.b8,f),1)],t.t),C.p,C.br,C.v),C.l,f,f,new S.bI(q,f,new F.bW(C.n,C.n,o,C.n),f,p,f,C.L),f,m,f,new V.ae(12,8,12,8),f,f,s),r,!1,g.d),f,!0,f,f,f,f,f,f,f,new O.adV(g),f,new O.adW(),f,f,f)}}
 O.adW.prototype={
 $0:function(){},
 $S:2}
@@ -74581,7 +74581,7 @@ $.aky=H.b(["https://drive.google.com/drive/folders/1_L1ParDN3nEFxd91yJihbbQRTS6s
 $.agX=H.b(["Ruby","Ruby on Rails","Python","Git","HTML","CSS","SCSS","Bootstrap"],t.i)
 $.akC=H.b(["assets/services/web.png","assets/services/ui.png","assets/services/rapid.png","assets/services/blog.png","assets/services/open.png"],t.i)
 $.CM=H.b(["Ruby on Rails Developer","UI/UX Designing","Rapid Prototyping","Technical Blog Writing","Open Source - GitHub"],t.i)
-$.akB=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Gems such as Omniauth, Devise and many more...!","Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!","Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype","Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!","Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"],t.i)
+$.akB=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Familiar with gems such as Omniauth, Devise, kaminari and many more...!","Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!","Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype","Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!","Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"],t.i)
 $.akD=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s,"https://mhamzadev.medium.com","https://github.com/mhmzdev"],t.i)}()
 $.kB=H.b(["assets/projects/medkitB.png","assets/projects/quranB.png","assets/projects/hereiamB.png","assets/projects/covidB.png"],t.i)
