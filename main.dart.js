@@ -68486,7 +68486,7 @@ q=b.H(s).f.a.a
 s=P.aI(0,0,5)
 s=O.DT(o,new M.V0(q),3,B.DS(!0,P.aI(0,800,0),C.an,s,!1,!0,r*0.3,o))
 p=L.aN("Let's Work Together",o,o,o,o,o,o)
-return M.ar(o,T.bA(H.b([new O.fO("\nGet in Touch",o),new O.fP("Let's build something together :)\n\n",o),s,C.ix,M.ar(o,B.ajS(L.cK(C.rG,o,o),p,new M.V1(b),B.Hs(o,o,o,o,o,o,o,o,o,o,C.y,o,o,o,o,o,A.ds(o,o,o,o,o,o,o,o,o,o,o,r*0.02,o,o,o,o,!0,o,o,o,o,o,o,o),o)),C.k,o,o,o,o,r*0.05,o,o,o,o,q*0.6)],t.t),C.p,C.m,C.v),C.k,o,o,o,o,o,o,o,o,o,o)}}
+return M.ar(o,T.bA(H.b([new O.fO("\nGet in Touch",o),new O.fP("Let's build something together :)\n\n",o),s,C.ix,M.ar(o,B.ajS(L.cK(C.rG,o,o),p,new M.V1(b),B.Hs(o,o,o,o,o,o,o,o,o,o,C.y,o,o,o,o,o,A.ds(o,o,o,o,o,o,o,o,o,o,o,r*0.03,o,o,o,o,!0,o,o,o,o,o,o,o),o)),C.k,o,o,o,o,r*0.05,o,o,o,o,q*0.5)],t.t),C.p,C.m,C.v),C.k,o,o,o,o,o,o,o,o,o,o)}}
 M.V0.prototype={
 $3:function(a,b,c){var s,r,q=null,p=this.a
 p=p>480?p*0.5:p*0.8
