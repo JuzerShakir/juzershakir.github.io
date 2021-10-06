@@ -1,4 +1,4 @@
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir&color=303030&lcolor=000000&style=for-the-badge&logo=Github)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir.juzershakir.github.io&color=303030&lcolor=000000&style=for-the-badge&logo=Github)
 
 <br/>
 
