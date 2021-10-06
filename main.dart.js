@@ -6953,14 +6953,14 @@ if(s&&!c&&!C.c.bP(a,"/"))return P.ak1(a,!s||c)
 return P.kq(a)},
 apZ:function(a,b,c,d){var s,r={}
 if(a!=null){if(d!=null)throw H.a(P.cl("Both query and queryParameters specified"))
-return P.C6(a,b,c,C.eS,!0)}if(d==null)return null
+return P.C6(a,b,c,C.eQ,!0)}if(d==null)return null
 s=new P.cG("")
 r.a=""
 d.af(0,new P.af7(new P.af8(r,s)))
 r=s.a
 return r.charCodeAt(0)==0?r:r},
 apW:function(a,b,c){if(a==null)return null
-return P.C6(a,b,c,C.eS,!0)},
+return P.C6(a,b,c,C.eQ,!0)},
 ak0:function(a,b,c){var s,r,q,p,o,n=b+2
 if(n>=a.length)return"%"
 s=C.c.aG(a,b+1)
@@ -7078,7 +7078,7 @@ if(p!==44||r!==n+7||!C.c.dH(a,"base64",n+1))throw H.a(P.cq("Expecting '='",a,r))
 break}}j.push(r)
 m=r+1
 if((j.length&1)===1)a=C.oH.abU(0,a,m,s)
-else{l=P.aq1(a,m,s,C.eS,!0)
+else{l=P.aq1(a,m,s,C.eQ,!0)
 if(l!=null)a=C.c.lN(a,m,s,l)}return new P.a7r(a,j,c)},
 aCb:function(){var s,r,q,p,o,n="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-._~!$&'()*+,;=",m=".",l=":",k="/",j="?",i="#",h=J.Gu(22,t.H3)
 for(s=0;s<22;++s)h[s]=new Uint8Array(96)
@@ -25019,10 +25019,10 @@ else{b=d<0
 c=b?2:0
 if(e<0!==b)++c}a=H.b([],t.td)
 for(a0=0;a0<c;++a0){a1=a0*2
-a2=C.eT[a1]
-a3=C.eT[a1+1]
-a4=C.eT[a1+2]
-a.push(new H.eM(a2.a,a2.b,a3.a,a3.b,a4.a,a4.b,0.707106781))}a5=C.eT[c*2]
+a2=C.eS[a1]
+a3=C.eS[a1+1]
+a4=C.eS[a1+2]
+a.push(new H.eM(a2.a,a2.b,a3.a,a3.b,a4.a,a4.b,0.707106781))}a5=C.eS[c*2]
 b=a5.a
 a6=a5.b
 a7=e*b+d*a6
@@ -36247,7 +36247,7 @@ if(m==null){m=o.a
 s=o.b[0]+1
 r=C.c.qe(m,"?",s)
 q=m.length
-if(r>=0){p=P.C6(m,r+1,q,C.eS,!1)
+if(r>=0){p=P.C6(m,r+1,q,C.eQ,!1)
 q=r}else p=n
 m=o.c=new P.Mc("data","",n,n,P.C6(m,s,q,C.l7,!1),p,n)}return m},
 j:function(a){var s=this.a
@@ -68539,7 +68539,7 @@ r=L.anr(k,new F.hL(4,C.d6,C.jH),k,k,k,k,k,!0,k,k,k,k,k,r,!0,k,k,k,k,!0,k,k,k,k,k
 i=T.dh(T.bA(H.b([new A.bq("Message:",i,k,k),C.cT,new Z.yY(l.d,r,C.iS,C.dX,e,C.mO,C.mP,7,C.Gf,k)],c),C.a6,C.m,C.v),1)
 e=T.aR(H.b([M.am(k,k,C.k,C.D.h(0,800),k,k,k,2,k,k,k,k,150),C.CI,T.aK(new B.qf("Send",new K.aaG(l),k),40,200)],c),C.p,C.m,C.T)
 n=J.Gu(4,t.ib)
-for(r=t.w,m=0;m<4;++m)n[m]=new B.i2(new L.nR(C.eR[m],C.eQ[m],b.H(r).f.a.b*0.035,b.H(r).f.a.a*0.005,k),k)
+for(r=t.w,m=0;m<4;++m)n[m]=new B.i2(new L.nR(C.eR[m],C.eT[m],b.H(r).f.a.b*0.035,b.H(r).f.a.a*0.005,k),k)
 return D.eV(k,M.J7(k,h,T.eB(C.aG,H.b([new T.bi(C.ky,T.bA(H.b([g,C.iy,d,C.iy,s,C.iz,f,C.iz,T.aR(H.b([i,C.CH,T.dh(T.bA(H.b([e,C.iz,T.aR(n,C.p,C.m,C.T)],c),C.a6,C.m,C.v),1)],c),C.p,C.m,C.v),T.dh(M.am(k,k,C.k,k,k,k,k,k,k,k,k,k,k),1)],c),C.a6,C.m,C.v),k),T.lj(0,new N.vK(k),k,k,k,k,k,k)],c),C.ay,k,k),k,!1),C.a3,!1,k,k,k,k,k,k,k,k,k,k,k,k,new K.aaH(b),k,k,k,k,k,k)}}
 K.aaH.prototype={
 $0:function(){return L.FZ(this.a).wa()},
@@ -68637,7 +68637,7 @@ k=d.c?4:0
 i=f.x
 h=f.ch
 g=H.ae(h).i("al<1,ea<n*>*>")
-return D.eV(e,M.J7(e,r,T.eB(C.aG,H.b([new T.bi(C.ky,T.bA(H.b([q,C.fj,n,C.fj,p,C.fi,o,C.fi,l,C.fi,T.aR(H.b([T.dh(T.bA(H.b([new A.bq("Project Duration",c,e,e),C.fk,M.ew(C.S,e,new T.bi(C.c6,new K.fT(K.ms(C.i,!0,P.aA(new H.al(h,new Q.aaU(),g),!0,g.i("b2.E")),new Q.aaV(f),i,j),e),e),C.k,C.f,k,e,e,e,e,C.aw)],m),C.a6,C.m,C.T),1)],m),C.p,C.m,C.v),C.fi,T.aR(H.b([M.am(e,new B.qf("Send",new Q.aaW(f),e),C.k,e,e,e,e,40,e,e,e,e,s*0.25),M.am(e,e,C.k,e,e,e,e,e,e,e,e,e,s*0.1),M.am(e,new B.qf("Hire me on Upwork",new Q.aaX(),e),C.k,e,e,e,e,40,e,e,e,e,s*0.4)],m),C.p,C.m,C.v)],m),C.a6,C.m,C.v),e)],m),C.ay,e,e),e,!1),C.a3,!1,e,e,e,e,e,e,e,e,e,e,e,e,new Q.aaP(b),e,e,e,e,e,e)}}
+return D.eV(e,M.J7(e,r,T.eB(C.aG,H.b([new T.bi(C.ky,T.bA(H.b([q,C.fj,n,C.fj,p,C.fi,o,C.fi,l,C.fi,T.aR(H.b([T.dh(T.bA(H.b([new A.bq("Project Duration",c,e,e),C.fk,M.ew(C.S,e,new T.bi(C.c6,new K.fT(K.ms(C.i,!0,P.aA(new H.al(h,new Q.aaU(),g),!0,g.i("b2.E")),new Q.aaV(f),i,j),e),e),C.k,C.f,k,e,e,e,e,C.aw)],m),C.a6,C.m,C.T),1)],m),C.p,C.m,C.v),C.fi,T.aR(H.b([M.am(e,new B.qf("Send",new Q.aaW(f),e),C.k,e,e,e,e,40,e,e,e,e,s*0.25),M.am(e,e,C.k,e,e,e,e,e,e,e,e,e,s*0.11),M.am(e,new B.qf("Hire me on Upwork",new Q.aaX(),e),C.k,e,e,e,e,40,e,e,e,e,s*0.4)],m),C.p,C.m,C.v)],m),C.a6,C.m,C.v),e)],m),C.ay,e,e),e,!1),C.a3,!1,e,e,e,e,e,e,e,e,e,e,e,e,new Q.aaP(b),e,e,e,e,e,e)}}
 Q.aaP.prototype={
 $0:function(){return L.FZ(this.a).wa()},
 $S:0}
@@ -68733,7 +68733,7 @@ o=B.au(a.c?C.i:C.f,o,C.ao,b,b)
 o=T.aR(H.b([e,a0,M.ajB(!0,q,H.b([" UI/UX Enthusiast"," Ruby on Rails Developer"," Technical Writer"],t.i),o)],l),C.p,C.m,C.v)
 m=T.aK(b,m,b)
 d=J.Gu(4,t.ib)
-for(a0=a1*0.047,q=a2*0.005,c=0;c<4;++c)d[c]=new B.i2(new L.nR(C.eR[c],C.eQ[c],a0,q,b),b)
+for(a0=a1*0.047,q=a2*0.005,c=0;c<4;++c)d[c]=new B.i2(new L.nR(C.eR[c],C.eT[c],a0,q,b),b)
 return M.am(b,T.eB(C.aG,H.b([s,M.am(b,T.bA(H.b([n,p,new A.bq("I'm",k,b,b),new A.bq("Shakir",j,b,b),new A.bq("Juzer",i,b,b),h,new B.fV(o,g,f,new P.k(-10,0),b),m,T.aR(d,C.p,C.m,C.T)],l),C.a6,C.m,C.v),C.k,b,b,b,b,b,new V.af(r,a1*0.2,r,0),b,b,b,b)],l),C.ay,b,b),C.k,b,b,b,b,a1-50,b,b,b,b,a2)}}
 G.vV.prototype={
 ah:function(){return new G.Nn(C.n)}}
@@ -68758,7 +68758,7 @@ r=B.au(f.c?C.i:C.f,r,C.ao,g,g)
 r=T.aR(H.b([k,j,M.ajB(!0,i,H.b([" Ruby on Rails Developer"," Technical Writer"," UI/UX Enthusiast"],t.i),r)],q),C.p,C.m,C.v)
 i=T.aK(g,d*0.035,g)
 j=H.b([],q)
-for(k=d*0.04,h=0;h<4;++h)j.push(new L.nR(C.eR[h],C.eQ[h],k,5,g))
+for(k=d*0.04,h=0;h<4;++h)j.push(new L.nR(C.eR[h],C.eT[h],k,5,g))
 return M.am(g,T.eB(C.aG,H.b([e,M.am(g,T.bA(H.b([p,o,s,m,n,l,r,i,T.aR(j,C.p,C.m,C.T)],q),C.a6,C.m,C.v),C.k,g,g,g,g,g,new V.af(c*0.07,d*0.12,0,0),g,g,g,g)],q),C.ay,g,g),C.k,g,g,g,g,d,g,g,g,g,c)}}
 V.Ge.prototype={
 E:function(a0,a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d=Y.cy(a1,t.X),c=t.w,b=a1.H(c).f.a.b,a=a1.H(c).f.a.a
@@ -68786,7 +68786,7 @@ s=B.au(d.c?C.i:C.f,s,C.ao,e,e)
 s=T.aR(H.b([h,m,M.ajB(!0,g,H.b([" UI/UX Enthusiast"," Ruby on Rails Developer"," Technical Writer"],t.i),s)],q),C.p,C.m,C.v)
 g=T.aK(e,b*0.045,e)
 m=H.b([],q)
-for(h=a*0.01,f=0;f<4;++f)m.push(new L.nR(C.eR[f],C.eQ[f],o,h,e))
+for(h=a*0.01,f=0;f<4;++f)m.push(new L.nR(C.eR[f],C.eT[f],o,h,e))
 return M.am(e,T.eB(C.aG,H.b([r,M.am(e,T.bA(H.b([p,n,l,j,k,i,s,g,T.aR(m,C.p,C.m,C.T)],q),C.a6,C.m,C.v),C.k,e,e,e,e,e,new V.af(a*0.1,c,0,0),e,e,e,e)],q),C.ay,e,e),C.k,e,e,e,e,b,e,e,e,e,a)}}
 F.n_.prototype={
 ah:function(){return new F.AK(O.ajw(),F.qL(0),H.b(["HOME","ABOUT","SERVICES","PROJECTS","CONTACT"],t.i),H.b([C.rx,C.rA,C.rD,C.rw,C.ru,C.rB],t.bY),C.n)}}
@@ -73091,16 +73091,15 @@ C.i5=new B.fm("ModifierKey.functionModifier")
 C.lP=new B.fm("ModifierKey.symbolModifier")
 C.t1=H.b(s([C.cK,C.cL,C.cM,C.cN,C.i2,C.i3,C.i4,C.i5,C.lP]),H.a0("t<fm*>"))
 C.t3=H.b(s([0,1]),H.a0("t<P*>"))
-C.eQ=H.b(s(["https://linkedin.com/in/juzershakir","https://juzer-shakir.medium.com","https://github.com/juzershakir","https://twitter.com/juzer_shakir"]),t.i)
 C.t8=H.b(s([C.aO,C.b5,C.as,C.P,C.ao,C.cD,C.aT,C.eu,C.dp]),H.a0("t<ff*>"))
 C.kZ=H.b(s([0,0,32776,33792,1,10240,0,0]),t.w0)
 C.tb=H.b(s(["*::class","*::dir","*::draggable","*::hidden","*::id","*::inert","*::itemprop","*::itemref","*::itemscope","*::lang","*::spellcheck","*::title","*::translate","A::accesskey","A::coords","A::hreflang","A::name","A::shape","A::tabindex","A::target","A::type","AREA::accesskey","AREA::alt","AREA::coords","AREA::nohref","AREA::shape","AREA::tabindex","AREA::target","AUDIO::controls","AUDIO::loop","AUDIO::mediagroup","AUDIO::muted","AUDIO::preload","BDO::dir","BODY::alink","BODY::bgcolor","BODY::link","BODY::text","BODY::vlink","BR::clear","BUTTON::accesskey","BUTTON::disabled","BUTTON::name","BUTTON::tabindex","BUTTON::type","BUTTON::value","CANVAS::height","CANVAS::width","CAPTION::align","COL::align","COL::char","COL::charoff","COL::span","COL::valign","COL::width","COLGROUP::align","COLGROUP::char","COLGROUP::charoff","COLGROUP::span","COLGROUP::valign","COLGROUP::width","COMMAND::checked","COMMAND::command","COMMAND::disabled","COMMAND::label","COMMAND::radiogroup","COMMAND::type","DATA::value","DEL::datetime","DETAILS::open","DIR::compact","DIV::align","DL::compact","FIELDSET::disabled","FONT::color","FONT::face","FONT::size","FORM::accept","FORM::autocomplete","FORM::enctype","FORM::method","FORM::name","FORM::novalidate","FORM::target","FRAME::name","H1::align","H2::align","H3::align","H4::align","H5::align","H6::align","HR::align","HR::noshade","HR::size","HR::width","HTML::version","IFRAME::align","IFRAME::frameborder","IFRAME::height","IFRAME::marginheight","IFRAME::marginwidth","IFRAME::width","IMG::align","IMG::alt","IMG::border","IMG::height","IMG::hspace","IMG::ismap","IMG::name","IMG::usemap","IMG::vspace","IMG::width","INPUT::accept","INPUT::accesskey","INPUT::align","INPUT::alt","INPUT::autocomplete","INPUT::autofocus","INPUT::checked","INPUT::disabled","INPUT::inputmode","INPUT::ismap","INPUT::list","INPUT::max","INPUT::maxlength","INPUT::min","INPUT::multiple","INPUT::name","INPUT::placeholder","INPUT::readonly","INPUT::required","INPUT::size","INPUT::step","INPUT::tabindex","INPUT::type","INPUT::usemap","INPUT::value","INS::datetime","KEYGEN::disabled","KEYGEN::keytype","KEYGEN::name","LABEL::accesskey","LABEL::for","LEGEND::accesskey","LEGEND::align","LI::type","LI::value","LINK::sizes","MAP::name","MENU::compact","MENU::label","MENU::type","METER::high","METER::low","METER::max","METER::min","METER::value","OBJECT::typemustmatch","OL::compact","OL::reversed","OL::start","OL::type","OPTGROUP::disabled","OPTGROUP::label","OPTION::disabled","OPTION::label","OPTION::selected","OPTION::value","OUTPUT::for","OUTPUT::name","P::align","PRE::width","PROGRESS::max","PROGRESS::min","PROGRESS::value","SELECT::autocomplete","SELECT::disabled","SELECT::multiple","SELECT::name","SELECT::required","SELECT::size","SELECT::tabindex","SOURCE::type","TABLE::align","TABLE::bgcolor","TABLE::border","TABLE::cellpadding","TABLE::cellspacing","TABLE::frame","TABLE::rules","TABLE::summary","TABLE::width","TBODY::align","TBODY::char","TBODY::charoff","TBODY::valign","TD::abbr","TD::align","TD::axis","TD::bgcolor","TD::char","TD::charoff","TD::colspan","TD::headers","TD::height","TD::nowrap","TD::rowspan","TD::scope","TD::valign","TD::width","TEXTAREA::accesskey","TEXTAREA::autocomplete","TEXTAREA::cols","TEXTAREA::disabled","TEXTAREA::inputmode","TEXTAREA::name","TEXTAREA::placeholder","TEXTAREA::readonly","TEXTAREA::required","TEXTAREA::rows","TEXTAREA::tabindex","TEXTAREA::wrap","TFOOT::align","TFOOT::char","TFOOT::charoff","TFOOT::valign","TH::abbr","TH::align","TH::axis","TH::bgcolor","TH::char","TH::charoff","TH::colspan","TH::headers","TH::height","TH::nowrap","TH::rowspan","TH::scope","TH::valign","TH::width","THEAD::align","THEAD::char","THEAD::charoff","THEAD::valign","TR::align","TR::bgcolor","TR::char","TR::charoff","TR::valign","TRACK::default","TRACK::kind","TRACK::label","TRACK::srclang","UL::compact","UL::type","VIDEO::controls","VIDEO::height","VIDEO::loop","VIDEO::mediagroup","VIDEO::muted","VIDEO::preload","VIDEO::width"]),t.i)
 C.tr=H.b(s([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298]),t.w0)
-C.eR=H.b(s(["assets/social/linkedin.png","assets/social/medium.png","assets/social/github.png","assets/social/twitter.png"]),t.i)
-C.eS=H.b(s([0,0,65490,45055,65535,34815,65534,18431]),t.w0)
+C.eQ=H.b(s([0,0,65490,45055,65535,34815,65534,18431]),t.w0)
 C.tF=H.b(s(["pointerdown","pointermove","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseup","keyup","keydown"]),t.i)
 C.l_=H.b(s(["text","multiline","number","phone","datetime","emailAddress","url","visiblePassword","name","address"]),t.i)
 C.l0=H.b(s([0,0,26624,1023,65534,2047,65534,2047]),t.w0)
+C.eR=H.b(s(["assets/social/linkedin.png","assets/social/medium.png","assets/social/github.png","assets/social/wakatime.png"]),t.i)
 C.uj=new P.jE("en","US")
 C.l1=H.b(s([C.uj]),t._p)
 C.cO=new P.k(1,0)
@@ -73111,7 +73110,7 @@ C.lZ=new P.k(-1,0)
 C.yb=new P.k(-1,-1)
 C.lY=new P.k(0,-1)
 C.y1=new P.k(1,-1)
-C.eT=H.b(s([C.cO,C.y0,C.b8,C.ya,C.lZ,C.yb,C.lY,C.y1]),H.a0("t<k*>"))
+C.eS=H.b(s([C.cO,C.y0,C.b8,C.ya,C.lZ,C.yb,C.lY,C.y1]),H.a0("t<k*>"))
 C.aY=new P.yR("TextAffinity.upstream")
 C.u=new P.yR("TextAffinity.downstream")
 C.tK=H.b(s([C.aY,C.u]),H.a0("t<yR*>"))
@@ -73125,6 +73124,7 @@ C.iD=new P.k5(3,"TextAlign.justify")
 C.ac=new P.k5(4,"TextAlign.start")
 C.cY=new P.k5(5,"TextAlign.end")
 C.tM=H.b(s([C.fm,C.cX,C.ba,C.iD,C.ac,C.cY]),H.a0("t<k5*>"))
+C.eT=H.b(s(["https://linkedin.com/in/juzershakir","https://juzer-shakir.medium.com","https://github.com/juzershakir","https://wakatime.com/@JuzerShakir"]),t.i)
 C.fS=new K.Br(0,"_RouteRestorationType.named")
 C.ny=new K.Br(1,"_RouteRestorationType.anonymous")
 C.tQ=H.b(s([C.fS,C.ny]),H.a0("t<Br*>"))
