@@ -74554,7 +74554,7 @@ $.akI=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Familiar with gems such as Omniauth
 $.aEG=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.m1=[]
-$.arn=H.b(["assets/projects/ruby_driver_logo.png"],t.i)
+$.arn=H.b(["assets/projects/ruby_driver.png"],t.i)
 $.CM=H.b(["Track driver travel logs"],t.i)
 $.arm=H.b(["A Ruby project which generates report of each driver with total miles driven & average speed, sorted by most miles driven to least."],t.i)
 $.akH=H.b(["https://github.com/JuzerShakir/track_driver_travel_logs"],t.i)
