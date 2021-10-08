@@ -74545,7 +74545,7 @@ $.apw=H.b([0.000022888183591973643,0.028561000304762274,0.05705195792956655,0.08
 $.aye=H.b([0,0,0],t.Y)
 $.ayf=H.b([0,0,0,0],t.Y)
 $.arE=null
-$.akG=H.b(["assets/udacity_logo.png","assets/khan_academy.png"],t.i)
+$.akG=H.b(["assets/community/udacity_logo.png","assets/community/khan_academy.png"],t.i)
 $.akF=H.b(["https://drive.google.com/drive/folders/1_L1ParDN3nEFxd91yJihbbQRTS6s_6xo?usp=sharing","https://drive.google.com/file/d/0B8qVMkowFyBSclVzX2JhM2VuVzZzbG81ZVFpVTlEZWFScGxv/view?usp=sharing&resourcekey=0-kn1rqarX1NrmvbNoMoQ4-Q"],t.i)
 $.ah1=H.b(["Ruby","Ruby on Rails","Python","Git","HTML","CSS","SCSS","Bootstrap"],t.i)
 $.akJ=H.b(["assets/services/web.png","assets/services/ui.png","assets/services/blog.png"],t.i)
