@@ -68930,7 +68930,7 @@ return K.h_(r,!0).qE(E.axt(C.X,!0,null,new S.a4u(this.a,r),r,null,s,!0,t.z))},
 $S:442}
 S.a4u.prototype={
 $1:function(a){var s=null,r=this.a.c,q=r.c?C.f:C.D.h(0,900),p=A.dr(s,s,r.c?C.i:C.f,s,s,s,s,s,s,s,s,35,s,s,s,s,!0,s,s,s,s,s,s,s),o=t.t,n=H.b([U.aAf(L.aN("Back",s,s,s,s,s,s),new S.a4r(this.b),s)],o)
-return new E.oI(new A.bq("Hire Me!",p,s,s),T.bA(H.b([B.v3(new P.D(4281650018),T.aQ(H.b([L.cK(C.rq,s,s),C.ci,L.aN("Telegram",s,s,s,s,s,s)],o),C.p,C.m,C.T),40,new S.a4s()),C.cT,B.v3(new P.D(4279478272),T.aQ(H.b([U.YK(u.P,C.f,35),C.ci,L.aN("Upwork",s,s,s,s,s,s)],o),C.p,C.m,C.T),40,new S.a4t())],o),C.p,C.bs,C.T),n,q,s)},
+return new E.oI(new A.bq("Hire Me!",p,s,s),T.bA(H.b([B.v3(new P.D(4280193279),T.aQ(H.b([L.cK(C.rq,s,s),C.ci,L.aN("Telegram",s,s,s,s,s,s)],o),C.p,C.m,C.T),40,new S.a4s()),C.cT,B.v3(new P.D(4279478272),T.aQ(H.b([U.YK(u.P,C.f,35),C.ci,L.aN("Upwork",s,s,s,s,s,s)],o),C.p,C.m,C.T),40,new S.a4t())],o),C.p,C.bs,C.T),n,q,s)},
 $S:443}
 S.a4r.prototype={
 $0:function(){K.h_(this.a,!1).j1(0,null)
