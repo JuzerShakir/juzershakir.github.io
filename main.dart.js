@@ -69075,7 +69075,7 @@ p=t.Q
 p=e.d?H.b([new O.aQ(0,P.ae(400,192,57,43),new P.k(0,0),15)],p):H.b([new O.aQ(0,P.ae(100,0,0,0),new P.k(0,0),12)],p)
 o=e.a
 n=o.c
-if(n!=null)if(a0>1135||a0<950)o=U.eW(n,a*0.09)
+if(n!=null)if(a0>1135||a0<950)o=U.eW(n,a*0.1)
 else{n=U.eW(n,a*0.03)
 m=T.af(d,d,a0*0.005)
 o=o.e
@@ -69096,7 +69096,7 @@ j=T.af(d,l,d)
 i=e.a.f
 h=c.c?C.i:C.f
 g=a0>=600?2:1.2
-g=B.av(h,a*0.017,C.au,g,0.8)
+g=B.av(h,a*0.018,C.au,g,1)
 l=T.af(d,l,d)
 e.a.toString
 h=M.ar(d,d,C.l,d,d,d,d,d,d,d,d,d,d)
@@ -74593,7 +74593,7 @@ $.akE=H.b(["https://drive.google.com/drive/folders/1_L1ParDN3nEFxd91yJihbbQRTS6s
 $.ah1=H.b(["Ruby","Ruby on Rails","Python","Git","HTML","CSS","SCSS","Bootstrap"],t.i)
 $.akI=H.b(["assets/services/web.png","assets/services/ui.png","assets/services/blog.png"],t.i)
 $.akJ=H.b(["Ruby on Rails Developer","UI/UX Designing","Technical Blog Writing"],t.i)
-$.akH=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Familiar with gems such as Omniauth, Devise, kaminari and many more...!","Although I'm mainly a ROR developer but I do care about the UI/UX. Hence, I also do UI designing for applications. So, feel free to ask me for getting you UI/UX for your apps. \n- Adobe XD\n- Mobile & Web designs","- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"],t.i)
+$.akH=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Familiar with gems such as Omniauth, Devise, kaminari and many more...!","Although I'm mainly a ROR developer but I do care about the UI/UX. Hence, I also do UI designing for applications.","- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"],t.i)
 $.aEG=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.m0=[]
