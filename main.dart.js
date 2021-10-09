@@ -16960,8 +16960,9 @@ _.d=a
 _.a=null
 _.b=b
 _.c=null},
-qR:function qR(a,b){this.c=a
-this.a=b},
+qR:function qR(a,b,c){this.c=a
+this.d=b
+this.a=c},
 a4u:function a4u(a,b){this.a=a
 this.b=b},
 a4t:function a4t(a,b){this.a=a
@@ -68964,17 +68965,17 @@ c=a*0.02
 s=J.Zf(3,t.ib)
 for(r=a<1200,q=a*0.22,p=a*0.25,o=0;o<3;++o){n=r?p:q
 m=r?b*0.37:b*0.35
-s[o]=new T.bi(C.ki,new B.j_(new O.nz($.akI[o],$.akJ[o],$.akH[o],n,m,new S.qR(d,e),e),e),e)}n=T.aM(s,C.p,C.bt,C.v)
+s[o]=new T.bi(C.ki,new B.j_(new O.nz($.akI[o],$.akJ[o],$.akH[o],n,m,new S.qR(d,b,e),e),e),e)}n=T.aM(s,C.p,C.bt,C.v)
 m=T.af(e,b*0.04,e)
 l=t.t
 k=H.b([],l)
 for(j=b*0.35,i=b*0.37,o=3;!1;++o){h=r?p:q
 g=r?i:j
 f=d.c&&o===4?"assets/services/open_b.png":$.akI[o]
-k.push(new T.bi(C.ki,new B.j_(new O.nz(f,$.akJ[o],$.akH[o],h,g,new S.qR(d,e),e),e),e))}return M.ar(e,T.bu(H.b([new O.fP("\nWhat I Do",e),new O.fQ(u.J,e),T.bu(H.b([n,m,T.aM(k,C.p,C.m,C.I)],l),C.p,C.m,C.v)],l),C.p,C.m,C.v),C.l,e,e,e,e,e,e,new V.aa(c,0,c,0),e,e,e)}}
+k.push(new T.bi(C.ki,new B.j_(new O.nz(f,$.akJ[o],$.akH[o],h,g,new S.qR(d,b,e),e),e),e))}return M.ar(e,T.bu(H.b([new O.fP("\nWhat I Do",e),new O.fQ(u.J,e),T.bu(H.b([n,m,T.aM(k,C.p,C.m,C.I)],l),C.p,C.m,C.v)],l),C.p,C.m,C.v),C.l,e,e,e,e,e,e,new V.aa(c,0,c,0),e,e,e)}}
 S.qR.prototype={
-F:function(a,b){var s=null
-return T.bu(H.b([C.mE,T.af(B.ww(L.aN("HIRE ME!",s,s,s,A.cQ(s,s,C.f,s,s,s,s,s,s,s,s,25,s,C.au,s,s,!0,s,s,s,s,s,s,s),s,s),C.y,s,new S.a4u(this,b),s),65,200)],t.t),C.p,C.bt,C.v)}}
+F:function(a,b){var s=null,r=this.d
+return T.bu(H.b([C.mE,T.af(B.ww(L.aN("Hire Me!",s,s,s,A.cQ(s,s,C.f,s,s,s,s,s,s,s,s,r*0.023,s,C.au,s,s,!0,s,s,s,s,s,s,s),s,s),C.y,s,new S.a4u(this,b),s),r*0.045,120)],t.t),C.p,C.bt,C.v)}}
 S.a4u.prototype={
 $0:function(){var s,r=this.b,q=K.h0(r,!0).c
 q.toString
@@ -68982,8 +68983,12 @@ s=M.anl(r,q)
 return K.h0(r,!0).qE(E.axt(C.X,!0,null,new S.a4t(this.a,r),r,null,s,!0,t.z))},
 $S:442}
 S.a4t.prototype={
-$1:function(a){var s=null,r=this.a.c,q=r.c?C.f:C.F.h(0,900),p=A.cQ(s,s,r.c?C.i:C.f,s,s,s,s,s,s,s,s,35,s,s,s,s,!0,s,s,s,s,s,s,s),o=t.t,n=H.b([U.aAf(L.aN("Back",s,s,s,s,s,s),new S.a4q(this.b),s)],o)
-return new E.oI(new A.bq("Hire Me!",p,s,s),T.bu(H.b([new B.eO(40,200,T.aM(H.b([L.cD(C.rk,s,s),C.aY,L.aN("Telegram",s,s,s,s,s,s)],o),C.p,C.m,C.I),new S.a4r(),new P.B(4280193279),s),C.cR,new B.eO(40,200,T.aM(H.b([U.pD(u.P,C.f,35),C.aY,L.aN("Upwork",s,s,s,s,s,s)],o),C.p,C.m,C.I),new S.a4s(),new P.B(4279478272),s)],o),C.p,C.bt,C.I),n,q,s)},
+$1:function(a){var s,r=null,q=this.a,p=q.c,o=p.c?C.f:C.F.h(0,900)
+p=p.c?C.i:C.f
+q=A.cQ(r,r,p,r,r,r,r,r,r,r,r,q.d*0.03,r,r,r,r,!0,r,r,r,r,r,r,r)
+p=t.t
+s=H.b([U.aAf(L.aN("Back",r,r,r,r,r,r),new S.a4q(this.b),r)],p)
+return new E.oI(new A.bq("Hire Me!",q,r,r),T.bu(H.b([new B.eO(40,200,T.aM(H.b([L.cD(C.rk,r,r),C.aY,L.aN("Telegram",r,r,r,r,r,r)],p),C.p,C.m,C.I),new S.a4r(),new P.B(4280193279),r),C.cR,new B.eO(40,200,T.aM(H.b([U.pD(u.P,C.f,35),C.aY,L.aN("Upwork",r,r,r,r,r,r)],p),C.p,C.m,C.I),new S.a4s(),new P.B(4279478272),r)],p),C.p,C.bt,C.I),s,o,r)},
 $S:443}
 S.a4q.prototype={
 $0:function(){K.h0(this.a,!1).j1(0,null)
@@ -69005,7 +69010,7 @@ $3:function(a,b,c){var s,r,q=this.a
 q=q<650?q*0.8:q*0.5
 s=$.akI[c]
 r=$.akJ[c]
-return new T.bi(C.qW,O.azL(new S.qR(this.b,null),null,q,$.akH[c],s,$.aEG[c],r),null)},
+return new T.bi(C.qW,O.azL(new S.qR(this.b,this.c,null),null,q,$.akH[c],s,$.aEG[c],r),null)},
 $C:"$3",
 $R:3,
 $S:101}
@@ -69075,7 +69080,7 @@ p=t.Q
 p=e.d?H.b([new O.aQ(0,P.ae(400,192,57,43),new P.k(0,0),15)],p):H.b([new O.aQ(0,P.ae(100,0,0,0),new P.k(0,0),12)],p)
 o=e.a
 n=o.c
-if(n!=null)if(a0>1135||a0<950)o=U.eW(n,a*0.1)
+if(n!=null)if(a0>1135||a0<950)o=U.eW(n,a*0.11)
 else{n=U.eW(n,a*0.03)
 m=T.af(d,d,a0*0.005)
 o=o.e
@@ -69149,7 +69154,7 @@ n=T.af(f,c*0.01,f)
 i=g.a.e
 h=e.c?C.i:C.f
 d=d.a.a<900?1.5:1.8
-return R.jw(!1,!0,new E.vz(M.ar(f,T.bu(H.b([l,k,j,n,T.db(L.aN(i,f,f,f,B.av(h,c*0.018,C.au,d,0),C.bb,f),1)],t.t),C.p,C.bt,C.v),C.l,f,f,new S.bE(q,f,new F.bQ(C.n,C.n,o,C.n),f,p,f,C.K),f,m,f,new V.aa(12,8,12,8),f,f,s),r,!1,g.d),f,!0,f,f,f,f,f,f,f,new O.ae_(g),f,new O.ae0(),f,f,f)}}
+return R.jw(!1,!0,new E.vz(M.ar(f,T.bu(H.b([l,k,j,n,T.db(L.aN(i,f,f,f,B.av(h,c*0.018,C.au,d,0.7),C.bb,f),1)],t.t),C.p,C.bt,C.v),C.l,f,f,new S.bE(q,f,new F.bQ(C.n,C.n,o,C.n),f,p,f,C.K),f,m,f,new V.aa(12,8,12,8),f,f,s),r,!1,g.d),f,!0,f,f,f,f,f,f,f,new O.ae_(g),f,new O.ae0(),f,f,f)}}
 O.ae0.prototype={
 $0:function(){},
 $S:2}
