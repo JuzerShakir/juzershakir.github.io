@@ -68310,8 +68310,8 @@ Z.EJ.prototype={
 F:function(a,b){return K.qH(new D.EK(null),new M.uW(null),new M.uW(null))}}
 D.EK.prototype={
 F:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=t.w,f=b.H(g).f.a.b,e=b.H(g).f.a.a
-g=e*0.015
-s=f*0.015
+g=e*0.02
+s=f*0.02
 r=J.Zf(3,t.ib)
 for(q=f*0.22,p=e<1200,o=e*0.2,n=e*0.03,m=e*0.25,l=f*0.25,k=0;k<3;++k){j=p?m:o
 i=p?l:q
@@ -69075,7 +69075,7 @@ p=t.Q
 p=e.d?H.b([new O.aQ(0,P.ae(400,192,57,43),new P.k(0,0),15)],p):H.b([new O.aQ(0,P.ae(100,0,0,0),new P.k(0,0),12)],p)
 o=e.a
 n=o.c
-if(n!=null)if(a0>1135||a0<950)o=U.eW(n,a*0.11)
+if(n!=null)if(a0>1135||a0<950)o=U.eW(n,a*0.09)
 else{n=U.eW(n,a*0.03)
 m=T.af(d,d,a0*0.005)
 o=o.e
@@ -69096,7 +69096,7 @@ j=T.af(d,l,d)
 i=e.a.f
 h=c.c?C.i:C.f
 g=a0>=600?2:1.2
-g=B.av(h,a*0.017,C.au,g,1)
+g=B.av(h,a*0.017,C.au,g,0.8)
 l=T.af(d,l,d)
 e.a.toString
 h=M.ar(d,d,C.l,d,d,d,d,d,d,d,d,d,d)
