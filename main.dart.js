@@ -68715,7 +68715,7 @@ F:function(a,b){var s,r,q=null,p=t.w,o=b.H(p).f.a.b,n=b.H(p).f.a.a
 p=n*0.02
 s=o*0.02
 r=n>1200?o*0.45:n*0.21
-return M.at(q,T.bA(H.b([new O.fO("\nPortfolio",q),new O.fP(u.h,q),T.am(B.aya(new U.a0R(n,o),5,new V.aa(0,20,0,20),C.r,new U.a0S(n)),r,q)],t.t),C.o,C.m,C.v),C.l,q,q,q,q,q,q,new V.aa(p,s,p,s),q,q,q)}}
+return M.at(q,T.bA(H.b([new O.fO("\nPortfolio",q),new O.fP(u.h,q),T.am(B.aya(new U.a0R(n,o),6,new V.aa(0,20,0,20),C.r,new U.a0S(n)),r,q)],t.t),C.o,C.m,C.v),C.l,q,q,q,q,q,q,new V.aa(p,s,p,s),q,q,q)}}
 U.a0S.prototype={
 $2:function(a,b){return new Z.rJ(this.a*0.015,C.ah,null)},
 $S:437}
@@ -68732,7 +68732,7 @@ F.xj.prototype={
 F:function(a,b){var s,r=null,q=t.w,p=b.H(q).f
 q=b.H(q).f
 s=P.aJ(0,0,5)
-return M.at(r,T.bA(H.b([new O.fO("\nPortfolio",r),new O.fP(u.h,r),O.DQ(r,new F.a0T(q.a.a),5,B.DP(!0,P.aJ(0,800,0),C.an,s,!1,!0,p.a.b*0.4,r))],t.t),C.o,C.m,C.v),C.l,r,r,r,r,r,r,r,r,r,r)}}
+return M.at(r,T.bA(H.b([new O.fO("\nPortfolio",r),new O.fP(u.h,r),O.DQ(r,new F.a0T(q.a.a),6,B.DP(!0,P.aJ(0,800,0),C.an,s,!1,!0,p.a.b*0.4,r))],t.t),C.o,C.m,C.v),C.l,r,r,r,r,r,r,r,r,r,r)}}
 F.a0T.prototype={
 $3:function(a,b,c){var s,r,q=this.a
 q=q<650?q*0.8:q*0.4
@@ -74496,10 +74496,10 @@ $.akv=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Familiar with gems such as Omniauth
 $.aEs=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.m2=[]
-$.ara=H.b(["assets/projects/session_cookie.png","assets/projects/mathematica.png","assets/projects/ruby_driver.png","assets/projects/TMDb.png","assets/projects/cafe_recipes.png"],t.i)
-$.CK=H.b(["Session & Cookie","Mathematica","Track driver travel logs","TMDb: The Movie Database","Cafe Recipes"],t.i)
-$.ar9=H.b(["A responsive Rails webapp that uses cookies to maintain a session with clients' browsers. Gems used: BCrypt, PostgreSQL & Bootstrap.","Includes many independent ruby programs such as validating a circle, factors of any integer, transform a fraction to its simplest form, etc.","A Ruby project which generates report of each driver with total miles driven & average speed, sorted by most miles driven to least.","Performed Data Analysis on a movie db consisting of 10k+ records using Python and its libraries NumPy, pandas, and Matplotlib.","My first dummy static site built with simple HTML and CSS tags which shows recipes."],t.i)
-$.aku=H.b(["https://session-cookie-store.herokuapp.com/","https://github.com/JuzerShakir/mathematica","https://github.com/JuzerShakir/track_driver_travel_logs","http://nbviewer.jupyter.org/github/JuzerShakir/Investigate_TMDb_Movies/blob/master/report.ipynb","https://juzershakir.github.io/cafe_recipes/"],t.i)
+$.ara=H.b(["assets/projects/session_cookie.png","assets/projects/mathematica.png","assets/projects/ruby_driver.png","assets/projects/TMDb.png","assets/projects/prodeasy.png","assets/projects/cafe_recipes.png"],t.i)
+$.CK=H.b(["Session & Cookie","Mathematica","Track driver travel logs","TMDb: The Movie Database","Prodeasy Mockup","Cafe Recipes"],t.i)
+$.ar9=H.b(["A responsive Rails webapp that uses cookies to maintain a session with clients' browsers. Gems used: BCrypt, PostgreSQL & Bootstrap.","Includes many independent ruby programs such as validating a circle, factors of any integer, transform a fraction to its simplest form, etc.","A Ruby project which generates report of each driver with total miles driven & average speed, sorted by most miles driven to least.","Performed Data Analysis on a movie db consisting of 10k+ records using Python and its libraries NumPy, pandas, and Matplotlib.","A responsive mockup designed with HTML and SCSS without any CSS dependencies of a homepage of Proeasy website.","My first dummy static site built with simple HTML and CSS tags which shows recipes."],t.i)
+$.aku=H.b(["https://session-cookie-store.herokuapp.com/","https://github.com/JuzerShakir/mathematica","https://github.com/JuzerShakir/track_driver_travel_logs","http://nbviewer.jupyter.org/github/JuzerShakir/Investigate_TMDb_Movies/blob/master/report.ipynb","https://juzershakir.github.io/prodeasy_mockup/","https://juzershakir.github.io/cafe_recipes/"],t.i)
 $.ar6=H.b([C.ry,C.rw,C.rx],t.bY)
 $.ar8=H.b(["Upwork","Telegram","Email"],t.i)
 $.ar5=H.b(["I'm available!","Wanna grab chai?","Shy to talk? Np!"],t.i)
