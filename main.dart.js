@@ -74496,10 +74496,10 @@ $.akv=H.b(["- SQL\n- PostgreSQL\n- Heroku\n- Familiar with gems such as Omniauth
 $.aEs=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.m2=[]
-$.ara=H.b(["assets/projects/session_cookie.png","assets/projects/mathematica.png","assets/projects/ruby_driver.png"],t.i)
-$.CK=H.b(["Session & Cookie","Mathematica","Track driver travel logs"],t.i)
-$.ar9=H.b(["A responsive Rails webapp that uses cookies to maintain a session with clients' browsers. Gems used: BCrypt, PostgreSQL & Bootstrap.","Includes many independent ruby programs such as validating a circle, factors of any integer, transform a fraction to its simplest form, etc.","A Ruby project which generates report of each driver with total miles driven & average speed, sorted by most miles driven to least."],t.i)
-$.aku=H.b(["https://session-cookie-store.herokuapp.com/","https://github.com/JuzerShakir/mathematica","https://github.com/JuzerShakir/track_driver_travel_logs"],t.i)
+$.ara=H.b(["assets/projects/session_cookie.png","assets/projects/mathematica.png","assets/projects/ruby_driver.png","assets/projects/cafe_recipes.png"],t.i)
+$.CK=H.b(["Session & Cookie","Mathematica","Track driver travel logs","Cafe Recipes"],t.i)
+$.ar9=H.b(["A responsive Rails webapp that uses cookies to maintain a session with clients' browsers. Gems used: BCrypt, PostgreSQL & Bootstrap.","Includes many independent ruby programs such as validating a circle, factors of any integer, transform a fraction to its simplest form, etc.","A Ruby project which generates report of each driver with total miles driven & average speed, sorted by most miles driven to least.","My first dummy static site built with simple HTML and CSS tags which shows recipes."],t.i)
+$.aku=H.b(["https://session-cookie-store.herokuapp.com/","https://github.com/JuzerShakir/mathematica","https://github.com/JuzerShakir/track_driver_travel_logs","https://juzershakir.github.io/cafe_recipes/"],t.i)
 $.ar6=H.b([C.ry,C.rw,C.rx],t.bY)
 $.ar8=H.b(["Upwork","Telegram","Email"],t.i)
 $.ar5=H.b(["I'm available!","Wanna grab chai?","Shy to talk? Np!"],t.i)
