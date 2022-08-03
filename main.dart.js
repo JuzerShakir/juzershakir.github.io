@@ -68738,7 +68738,7 @@ F:function(a,b){var s,r,q=null,p=t.w,o=b.H(p).f.a.b,n=b.H(p).f.a.a
 p=n*0.02
 s=o*0.02
 r=n>1200?o*0.45:n*0.21
-return M.au(q,T.bA(H.b([new O.fP("\nPortfolio",q),new O.fQ(u.h,q),T.af(B.ayb(new U.a0S(n,o),6,new V.aa(0,20,0,20),C.t,new U.a0T(n)),r,q)],t.t),C.n,C.m,C.q),C.l,q,q,q,q,q,q,new V.aa(p,s,p,s),q,q,q)}}
+return M.au(q,T.bA(H.b([new O.fP("\nPortfolio",q),new O.fQ(u.h,q),T.af(B.ayb(new U.a0S(n,o),7,new V.aa(0,20,0,20),C.t,new U.a0T(n)),r,q)],t.t),C.n,C.m,C.q),C.l,q,q,q,q,q,q,new V.aa(p,s,p,s),q,q,q)}}
 U.a0T.prototype={
 $2:function(a,b){return new Z.rJ(this.a*0.015,C.ah,null)},
 $S:437}
@@ -68755,7 +68755,7 @@ F.xj.prototype={
 F:function(a,b){var s,r=null,q=t.w,p=b.H(q).f
 q=b.H(q).f
 s=P.aJ(0,0,6)
-return M.au(r,T.bA(H.b([new O.fP("\nPortfolio",r),new O.fQ(u.h,r),O.DQ(r,new F.a0U(q.a.a),6,B.DP(!0,P.aJ(0,800,0),C.an,s,!1,!0,p.a.b*0.4,r))],t.t),C.n,C.m,C.q),C.l,r,r,r,r,r,r,r,r,r,r)}}
+return M.au(r,T.bA(H.b([new O.fP("\nPortfolio",r),new O.fQ(u.h,r),O.DQ(r,new F.a0U(q.a.a),7,B.DP(!0,P.aJ(0,800,0),C.an,s,!1,!0,p.a.b*0.4,r))],t.t),C.n,C.m,C.q),C.l,r,r,r,r,r,r,r,r,r,r)}}
 F.a0U.prototype={
 $3:function(a,b,c){var s,r,q=this.a
 q=q<650?q*0.8:q*0.4
@@ -74520,10 +74520,10 @@ $.akw=H.b(["- SQL\n- Redis\n- Heroku\n- Familiar with gems such as Omniauth, Dev
 $.aEt=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.m2=[]
-$.arb=H.b(["assets/projects/tweet.png","assets/projects/user_queries.png","assets/projects/api.png","assets/projects/shop_you.png","assets/projects/gratify.png","assets/projects/authenticate.png","assets/projects/session_cookie.png","assets/projects/mapty.png"],t.i)
+$.arb=H.b(["assets/projects/tweet.png","assets/projects/user_queries.png","assets/projects/api.png","assets/projects/gratify.png","assets/projects/authenticate.png","assets/projects/session_cookie.png","assets/projects/mapty.png"],t.i)
 $.CK=H.b(["Schedule Tweets","User Queries","JSON API","Gratify","Devise in Action","Session in Rails","Mapty"],t.i)
-$.ara=H.b(["Want to schedule tweets to go out in the future? Your search ends here!","A web application built on ruby on rails that will extract large amounts of data from the Google search results page.","Using Ruby on Rails to built a Blogger JSON API.","Your go-to hub for keeping track of notes, quotes and anything that is text based. Built using Devise + Omniauth + (Active Storage + Cloudinary) + Simple form + Pagy","A simple secure authentication webapp, built using Devise + reCAPTCHA + Action Mailer + Bootstrap SASS","A responsive rails CRUD webapp running on heroku implementing RESTful conventions and cookies to maintain a session with clients' browsers. Gems used: BCrypt, PostgreSQL & Bootstrap.","An app to keep track of your running and cycling activities and be able to visualize it on the map."],t.i)
-$.akv=H.b(["https://schedule-tweets-hub.herokuapp.com/","https://user-queries.herokuapp.com/","https://github.com/JuzerShakir/api-demo","https://github.com/JuzerShakir/rails_spree_demo","https://gratify-me.herokuapp.com/","https://rails-authenticate.herokuapp.com/","https://rails-session.herokuapp.com/","https://juzershakir.github.io/mapty_app/"],t.i)
+$.ara=H.b(["Want to schedule tweets to go out in the future? Your search ends here!","Extracts large amounts of data from the Google search results page with the queries provided in a CSV file uploaded by the user.","Using Ruby on Rails to built a Blogger JSON API.","Your go-to hub for keeping track of notes, quotes and anything that is text based. Built using Devise + Omniauth + (Active Storage + Cloudinary) + Simple form + Pagy","A simple secure authentication webapp, built using Devise + reCAPTCHA + Action Mailer + Bootstrap SASS","A responsive rails CRUD webapp, following RESTful conventions and cookies to maintain a session with clients' browsers. Gems used: BCrypt, PostgreSQL & Bootstrap.","An app to keep track of your running and cycling activities and be able to visualize it on the map."],t.i)
+$.akv=H.b(["https://schedule-tweets-hub.herokuapp.com/","https://user-queries.herokuapp.com/","https://github.com/JuzerShakir/api-demo","https://gratify-me.herokuapp.com/","https://rails-authenticate.herokuapp.com/","https://rails-session.herokuapp.com/","https://juzershakir.github.io/mapty_app/"],t.i)
 $.ar7=H.b([C.ry,C.rw,C.rx],t.bY)
 $.ar9=H.b(["Upwork","Telegram","Email"],t.i)
 $.ar6=H.b(["I'm available!","Wanna grab chai?","Shy to talk? Np!"],t.i)
