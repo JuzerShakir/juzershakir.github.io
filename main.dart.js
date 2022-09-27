@@ -68120,12 +68120,12 @@ p=q?2:1
 o=q?25:0
 n=a8*0.025
 m=B.av(C.y,n,a5,a5,a5)
-l=T.am(a5,a8*0.03,a5)
-k=a6.c?C.i:C.f
-k=B.av(k,a8*0.035,C.Q,a5,a5)
+l=a8*0.03
+k=T.am(a5,l,a5)
+l=B.av(a6.c?C.i:C.f,l,C.Q,a5,a5)
 j=a8*0.02
 i=T.am(a5,j,a5)
-h=B.av(C.E.h(0,500),j,a5,2,a5)
+h=B.av(C.E.h(0,500),a8*0.017,a5,2,a5)
 g=T.am(a5,n,a5)
 f=M.at(a5,a5,C.l,a5,a5,new S.bE(a5,a5,new F.bQ(C.n,C.n,new Y.bt(C.E.h(0,800),2,C.I),C.n),a5,a5,a5,C.K),a5,a5,a5,a5,a5,a5,a5)
 e=T.am(a5,j,a5)
@@ -68142,7 +68142,7 @@ j=T.am(a5,j,a5)
 a3=a8*0.05
 a4=H.b([new B.dV(a3,a9*0.2,T.aI(H.b([U.hD(u.a,a5,a8*0.04),C.aE,L.aN("Resume",a5,a5,a5,A.cO(a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a8*0.026,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5,a5),a5,a5)],c),C.o,C.m,C.G),new Z.SP(),C.y,a5),M.at(a5,a5,C.l,a5,a5,new S.bE(a5,a5,F.awy(C.y,1.5),a5,a5,a5,C.K),a5,a5,a5,a5,a5,a5,a9*0.06)],c)
 for(a=0;a<2;++a)a4.push(new D.p4($.akt[a],$.aks[a],a3,a5))
-p=T.d9(M.at(a5,T.bA(H.b([new A.bp("Who am I?",m,a5,a5),l,new A.bp(u.Q,k,a5,a5),i,new A.bp(u.U,h,a5,a5),g,f,e,new A.bp("Technologies I have worked with:",d,a5,a5),b,a0,a1,n,a2,j,T.aI(a4,C.o,C.m,C.v)],c),C.a9,C.m,C.v),C.l,a5,a5,a5,a5,a5,a5,new V.aa(o,0,0,0),a5,a5,a5),p)
+p=T.d9(M.at(a5,T.bA(H.b([new A.bp("Who am I?",m,a5,a5),k,new A.bp(u.Q,l,a5,a5),i,new A.bp(u.U,h,a5,a5),g,f,e,new A.bp("Technologies I have worked with:",d,a5,a5),b,a0,a1,n,a2,j,T.aI(a4,C.o,C.m,C.v)],c),C.a9,C.m,C.v),C.l,a5,a5,a5,a5,a5,a5,new V.aa(o,0,0,0),a5,a5,a5),p)
 return M.at(a5,T.bA(H.b([new O.fO("\nAbout Me",a5),new O.fP("Get to know me :)",a5),r,T.aI(H.b([p,M.at(a5,a5,C.l,a5,a5,a5,a5,a5,a5,a5,a5,a5,q?a9*0.05:a9*0.1)],c),C.o,C.m,C.v)],c),C.o,C.m,C.v),C.l,s,a5,a5,a5,a5,a5,new V.aa(a7,0,a7,0),a5,a5,a5)}}
 Z.SP.prototype={
 $0:function(){C.ad.qx(window,u.N,"pdf")},
