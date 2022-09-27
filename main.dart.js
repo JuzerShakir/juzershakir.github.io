@@ -68238,7 +68238,7 @@ s=O.DQ(m,new M.UN(q),3,B.DP(!0,P.aJ(0,800,0),C.an,s,!1,!0,r*0.3,m))
 p=T.am(m,r*0.05,m)
 o=q>480?q*0.5:q*0.8
 n=t.t
-return M.at(m,T.bA(H.b([new O.fO("\nGet in Touch",m),new O.fP("Let's build something together :)\n\n",m),s,p,new B.dV(r*0.065,o,T.aI(H.b([U.hD("https://img.icons8.com/color/50/000000/helping-hand.png",m,r*0.04),C.aE,L.aN("Let's work together",m,m,m,A.cO(m,m,m,m,m,m,m,m,m,m,m,r*0.026,m,C.aP,m,m,!0,m,m,m,m,m,m,m),m,m)],n),C.o,C.m,C.G),new M.UO(b),C.y,m)],n),C.o,C.m,C.v),C.l,m,m,m,m,m,m,m,m,m,m)}}
+return M.at(m,T.bA(H.b([new O.fO("\nGet in Touch",m),new O.fP("Let's build something together :)\n\n",m),s,p,new B.dV(r*0.065,o,T.aI(H.b([U.hD("https://img.icons8.com/color/50/000000/helping-hand.png",m,r*0.04),C.aE,L.aN("Let's work together",m,m,m,A.cO(m,m,m,m,m,m,m,m,m,m,m,r*0.022,m,C.aP,m,m,!0,m,m,m,m,m,m,m),m,m)],n),C.o,C.m,C.G),new M.UO(b),C.y,m)],n),C.o,C.m,C.v),C.l,m,m,m,m,m,m,m,m,m,m)}}
 M.UN.prototype={
 $3:function(a,b,c){var s,r,q=this.a
 q=q>480?q*0.5:q*0.8
