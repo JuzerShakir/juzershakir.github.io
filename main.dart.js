@@ -74493,10 +74493,10 @@ $.akv=H.b(["- SQL\n- Redis\n- Heroku\n- Familiar with gems such as Omniauth, Dev
 $.aEs=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.m2=[]
-$.ara=H.b(["assets/projects/fmb.jpeg","assets/projects/imdb.png","assets/projects/gratify.png","assets/projects/mapty.png"],t.i)
-$.CK=H.b(["FMB","IMDb","Gratify","Mapty"],t.i)
-$.ar9=H.b(["An online portal for the FMB (NPO), helping them streamline their day-to-day activities and improve efficiency.","Extracts data of a Movie or Tv-Series from an IMDb website via the IMDb link provided by the user.","Your go-to hub for keeping track of notes, quotes and anything that is text based. Built using Devise + Omniauth + (Active Storage + Cloudinary) + Simple form + Pagy","An app to keep track of your running and cycling activities and be able to visualize it on the map."],t.i)
-$.aku=H.b(["https://fmb.fly.dev/","https://github.com/JuzerShakir/imdb_api","https://gratify-me.herokuapp.com/","https://juzershakir.github.io/mapty_app/"],t.i)
+$.ara=H.b(["assets/projects/fmb.jpeg","assets/projects/imdb.png","assets/projects/gratify.png","assets/projects/mapty.png","assets/projects/TMDb.png"],t.i)
+$.CK=H.b(["FMB","IMDb","Gratify","Mapty","TMDb: The Movie Database"],t.i)
+$.ar9=H.b(["An online portal for the FMB (NPO), helping them streamline their day-to-day activities and improve efficiency.","Extracts data of a Movie or Tv-Series from an IMDb website via the IMDb link provided by the user.","Your go-to hub for keeping track of notes, quotes and anything that is text based. Built using Devise + Omniauth + (Active Storage + Cloudinary) + Simple form + Pagy","An app to keep track of your running and cycling activities and be able to visualize it on the map.","Performed Data Analysis on a movie db consisting of 10k+ records using Python and its libraries NumPy, pandas, and Matplotlib."],t.i)
+$.aku=H.b(["https://fmb.fly.dev/","https://github.com/JuzerShakir/imdb_api","https://gratify-me.herokuapp.com/","https://juzershakir.github.io/mapty_app/","http://nbviewer.jupyter.org/github/JuzerShakir/Investigate_TMDb_Movies/blob/master/report.ipynb"],t.i)
 $.ar6=H.b([C.ry,C.rw,C.rx],t.bY)
 $.ar8=H.b(["Upwork","Telegram","Email"],t.i)
 $.ar5=H.b(["I'm available!","Wanna grab chai?","Shy to talk? Np!"],t.i)
