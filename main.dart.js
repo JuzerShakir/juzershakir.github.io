@@ -74488,8 +74488,8 @@ $.akt=H.b(["assets/udacity_logo.png","assets/khan_academy.png"],t.i)
 $.aks=H.b(["https://drive.google.com/drive/folders/1_L1ParDN3nEFxd91yJihbbQRTS6s_6xo?usp=sharing","https://drive.google.com/file/d/0B8qVMkowFyBSclVzX2JhM2VuVzZzbG81ZVFpVTlEZWFScGxv/view?usp=sharing&resourcekey=0-kn1rqarX1NrmvbNoMoQ4-Q"],t.i)
 $.Sh=H.b(["Ruby","Ruby on Rails","JavaScript","SQL","Git","BootstrapHTML"],t.i)
 $.akw=H.b(["assets/services/web.png","assets/services/ui.png","assets/services/blog.png"],t.i)
-$.akx=H.b(["Ruby on Rails Developer","UI/UX Designing","Technical Blog Writing"],t.i)
-$.akv=H.b(["- SQL\n- Redis\n- Heroku\n- Familiar with gems such as Omniauth, Devise, pagy and many more...!","Although I'm mainly a ROR developer but I do care about the UI/UX. Hence, I also do UI designing for applications.","- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"],t.i)
+$.akx=H.b(["Web Developer","UI/UX Designing","Technical Blog Writing"],t.i)
+$.akv=H.b(["Transforming complex challenges into robust and dynamic web applications with Ruby on Rails tech. Bringing ideas to life and deliver exceptional digital solutions!","Although I'm mainly a ROR developer but I do care about the UI/UX. Hence, I also do UI designing for applications.","- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"],t.i)
 $.aEs=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.m2=[]
