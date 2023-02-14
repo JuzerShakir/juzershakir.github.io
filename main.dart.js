@@ -68712,7 +68712,7 @@ F:function(a,b){var s,r,q=null,p=t.w,o=b.H(p).f.a.b,n=b.H(p).f.a.a
 p=n*0.02
 s=o*0.02
 r=n>1200?o*0.45:n*0.21
-return M.at(q,T.bA(H.b([new O.fO("\nPortfolio",q),new O.fP(u.h,q),T.am(B.aya(new U.a0R(n,o),2,new V.aa(0,20,0,20),C.r,new U.a0S(n)),r,q)],t.t),C.o,C.m,C.v),C.l,q,q,q,q,q,q,new V.aa(p,s,p,s),q,q,q)}}
+return M.at(q,T.bA(H.b([new O.fO("\nPortfolio",q),new O.fP(u.h,q),T.am(B.aya(new U.a0R(n,o),3,new V.aa(0,20,0,20),C.r,new U.a0S(n)),r,q)],t.t),C.o,C.m,C.v),C.l,q,q,q,q,q,q,new V.aa(p,s,p,s),q,q,q)}}
 U.a0S.prototype={
 $2:function(a,b){return new Z.rJ(this.a*0.015,C.ah,null)},
 $S:437}
@@ -68729,7 +68729,7 @@ F.xj.prototype={
 F:function(a,b){var s,r=null,q=t.w,p=b.H(q).f
 q=b.H(q).f
 s=P.aJ(0,0,6)
-return M.at(r,T.bA(H.b([new O.fO("\nPortfolio",r),new O.fP(u.h,r),O.DQ(r,new F.a0T(q.a.a),2,B.DP(!0,P.aJ(0,800,0),C.an,s,!1,!0,p.a.b*0.4,r))],t.t),C.o,C.m,C.v),C.l,r,r,r,r,r,r,r,r,r,r)}}
+return M.at(r,T.bA(H.b([new O.fO("\nPortfolio",r),new O.fP(u.h,r),O.DQ(r,new F.a0T(q.a.a),3,B.DP(!0,P.aJ(0,800,0),C.an,s,!1,!0,p.a.b*0.4,r))],t.t),C.o,C.m,C.v),C.l,r,r,r,r,r,r,r,r,r,r)}}
 F.a0T.prototype={
 $3:function(a,b,c){var s,r,q=this.a
 q=q<650?q*0.8:q*0.4
@@ -74493,10 +74493,10 @@ $.akv=H.b(["- SQL\n- Redis\n- Heroku\n- Familiar with gems such as Omniauth, Dev
 $.aEs=function(){var s="https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter"
 return H.b([s,"https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",s],t.i)}()
 $.m2=[]
-$.ara=H.b(["assets/projects/gratify.png","assets/projects/mapty.png"],t.i)
-$.CK=H.b(["Gratify","Mapty"],t.i)
-$.ar9=H.b(["Your go-to hub for keeping track of notes, quotes and anything that is text based. Built using Devise + Omniauth + (Active Storage + Cloudinary) + Simple form + Pagy","An app to keep track of your running and cycling activities and be able to visualize it on the map."],t.i)
-$.aku=H.b(["https://gratify-me.herokuapp.com/","https://juzershakir.github.io/mapty_app/"],t.i)
+$.ara=H.b(["assets/projects/fmb.jpeg","assets/projects/gratify.png","assets/projects/mapty.png"],t.i)
+$.CK=H.b(["FMB","Gratify","Mapty"],t.i)
+$.ar9=H.b(["An online portal for the FMB (NPO), helping them streamline their day-to-day activities and improve efficiency.","Your go-to hub for keeping track of notes, quotes and anything that is text based. Built using Devise + Omniauth + (Active Storage + Cloudinary) + Simple form + Pagy","An app to keep track of your running and cycling activities and be able to visualize it on the map."],t.i)
+$.aku=H.b(["https://fmb.fly.dev/","https://gratify-me.herokuapp.com/","https://juzershakir.github.io/mapty_app/"],t.i)
 $.ar6=H.b([C.ry,C.rw,C.rx],t.bY)
 $.ar8=H.b(["Upwork","Telegram","Email"],t.i)
 $.ar5=H.b(["I'm available!","Wanna grab chai?","Shy to talk? Np!"],t.i)
